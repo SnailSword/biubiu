@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>匀速椭圆运动</title>
+    <style>
+        body {
+            margin-top: 100px;
+        }
+
+        .ball {
+            height: 12px;
+            width: 12px;
+            border-radius: 50%;
+            background-color: #108cee;
+            offset-path: path("M100 100a149 75 0 1 0 298 0a149 75 0 1 0 -298 0z");
+            /* offset-path: path("M150,151 C67.7095723,151 1,117.421356 1,76 C1,34.5786438 67.7095723,1 150,1 C232.290428,1 299,34.5786438 299,76 C299,117.421356 232.290428,151 150,151 Z"); */
+            animation: move 10s linear infinite;
+        }
+
+        @keyframes move {
+        /* 之前语法 */
+        100% { motion-offset: 100%;}
+        /* 当前规范语法 */
+        100% { offset-distance: 100%;}
+        }
+    </style>
+</head>
+<body>
+    <div class="ball" id="ball"></div>
+    <svg width="500" height="500">
+        <path d="M100 88a149 75 0 1 0 298 0a149 75 0 1 0 -298 0z" stroke="#999" stroke-width="1" fill="none" />
+    </svg>
+
+    <script>
+        // var ball = document.getElementById("ball");
+        // var initLocation = ball.getBoundingClientRect();
+        // var ts = new Date().getTime();
+        // var x = initLocation.left;
+        // var y = initLocation.top;
+        // var currentBall, currentX, currentY, currentTs, distance;
+        // setInterval(function() {
+        //     currentBall = ball.getBoundingClientRect();
+        //     currentX = currentBall.left;
+        //     currentY = currentBall.top;
+        //     currentTs = new Date().getTime();
+        //     console.log(Math.sqrt(Math.pow(x - currentX, 2) + Math.pow(y - currentY, 2)) / (currentTs - ts));
+        //     x = currentX;
+        //     y = currentY;
+        //     ts = currentTs;
+        // }, 2010);
+    </script>
+</body>
+</html>
