@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <title>腾讯云banner动画SVG版demo</title>
+    <style>
+        .contain {
+            background-repeat: no-repeat;
+            background-size: contain;
+            width: 100%;
+            padding-bottom: 27%;
+            position: relative;
+        }
+        .massage {
+            font: 12px sans-serif;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <banner v-for="banner in banners" v-bind="banner"></banner>
+        <p class="massage"> <a href="https://github.com/SnailSword/biubiu/blob/master/banner/index.html">源码地址</a> {{message}}</p>
+    </div>
+    <script>
+        var Banner = {
+            template: `<div>
+                    <div class="contain" :style="{backgroundImage: 'url(' + bg + ')'}">
+                        <div v-for="(item, index) in lines">
+                            <svg style="position: fixed">
+                                <symbol :id="'ball' + item">
+                                    <circle :fill="item.color" cx="0" cy="0" r="4"></circle>
+                                </symbol>
+                            </svg>
+                            <svg style="position:absolute" width="100%" viewBox="0 0 1920 500">
+                                <g v-for="tail in item.tail">
+                                    <use :style="{opacity: 1 - (1 / item.tail * tail) }" xmlns:xlink="http://www.w3.org/1999/xlink" :xlink:href="'#ball' + item" x="0" y="0"></use>
+                                    <animateMotion :path="item.path" :begin="item.begin + tail * item.interval + 's'" :dur="item.dur + 's'" repeatCount="indefinite"></animateMotion>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                </div>`,
+            data: function () {
+                return {
+
+                }
+            },
+            props: ['lines', 'bg']
+        };
+        var app = new Vue({
+            el: '#app',
+            data: function () {
+                return {
+                    message: '[图片素材来自腾讯云官网]',
+                    banners: [
+                        {
+                            lines: [
+                                {
+                                    name: 'p3',
+                                    path: 'M1210.20947,403.563912 C1248.81481,309.501861 1249.73574,245.957518 1212.97227,212.930883 C1165.9628,170.699706 1206.94541,146.299279 1168.84522,121.377757',
+                                    color: '#D8D8D8',
+                                    tail: 15,
+                                    begin: 0,
+                                    dur: 6,
+                                    interval: 0.04
+                                },
+                                {
+                                    name: 'p2',
+                                    path: 'M1128.78791,397.350906 C1105.50531,305.099232 1110.49527,238.49529 1143.75779,197.53908 C1170.52962,164.574875 1150.71842,133.215611 1167.78554,119.44226',
+                                    color: '#D8D8D8',
+                                    tail: 15,
+                                    begin: 2,
+                                    dur: 6,
+                                    interval: 0.04
+                                },
+                                {
+                                    name: 'p1',
+                                    path: 'M1048.69824,410.108548 C997.837298,349.833708 978.835145,238.685563 1084.03756,198.555693 C1092.66923,195.263109 1121.54035,183.530516 1141.06995,148.921647 C1142.23195,146.862429 1145.39633,126.990158 1167.57173,119.36298',
+                                    color: '#D8D8D8',
+                                    tail: 15,
+                                    begin: 1,
+                                    dur: 6,
+                                    interval: 0.04
+                                },
+                                {
+                                    name: 'p4',
+                                    path: 'M1289.78148,419.278193 C1402.34588,248.471173 1289.78148,228.959935 1216.44092,179.010403 C1183.63007,156.664156 1207.50926,130.450784 1167.70762,119.305502',
+                                    color: '#D8D8D8',
+                                    tail: 15,
+                                    begin: 0.5,
+                                    dur: 4,
+                                    interval: 0.02
+                                },
+                                {
+                                    name: 'p5',
+                                    path: 'M955.941126,472.192679 C847.880339,336.965184 955.666162,240.919087 1060.95354,198.703314 C1099.71172,183.162925 1132.95566,158.028291 1143.84392,141.921468',
+                                    color: '#D8D8D8',
+                                    tail: 15,
+                                    begin: 1.5,
+                                    dur: 5,
+                                    interval: 0.03
+                                },
+                                {
+                                    name: 'p6',
+                                    path: 'M1346.90513,488.882539 C1387.34003,436.893494 1403.81156,392.303652 1396.31973,355.113013 C1393.62074,341.714806 1394.32324,286.638462 1293.14638,225.185996',
+                                    color: '#D8D8D8',
+                                    tail: 15,
+                                    begin: 2.5,
+                                    dur: 5,
+                                    interval: 0.03
+                                }
+                            ],
+                            bg: 'https://main.qcloudimg.com/raw/2d88c2d4658853069618bf19d0715e2c.png'
+                        },
+                        {
+                            lines: [
+                                {
+                                    name: 'k1',
+                                    path: 'M980.743629,520.927067 L980.743629,497.701283 C982.770279,377.242918 1004.11833,275.220082 1044.78779,191.632776',
+                                    color: '#D8D8D8',
+                                    tail: 15,
+                                    begin: 0.5,
+                                    dur: 5,
+                                    interval: 0.03
+                                },
+                                {
+                                    name: 'k2',
+                                    path: 'M933.303528,429.707024 C947.751224,321.14003 984.642177,242.071971 1043.97639,192.502847',
+                                    color: '#D8D8D8',
+                                    tail: 15,
+                                    begin: 2.5,
+                                    dur: 5,
+                                    interval: 0.03
+                                },
+                                {
+                                    name: 'k3',
+                                    path: 'M1125.14658,433.490855 C1104.31343,323.507595 1077.35742,242.88639 1044.27856,191.627239',
+                                    color: '#D8D8D8',
+                                    tail: 15,
+                                    begin: 3,
+                                    dur: 4,
+                                    interval: 0.025
+                                }
+                            ],
+                            bg: 'https://main.qcloudimg.com/raw/4c8bd87dae313d912fb5ce38a7a9b502.png'
+                        },
+                        {
+                            lines: [
+                                {
+                                    name: 'l1',
+                                    path: 'M809.965914 422.671482 1111.78642 184.250319 1342.68593 303.4609 1350.14113',
+                                    color: '#D8D8D8',
+                                    tail: 15,
+                                    begin: 1.5,
+                                    dur: 4,
+                                    interval: 0.02
+                                },
+                                {
+                                    name: 'l2',
+                                    path: 'M1529.49469 368.956639 1112.34224 119.715177 817.572143 379.414449',
+                                    color: '#D8D8D8',
+                                    tail: 15,
+                                    begin: 0.5,
+                                    dur: 4,
+                                    interval: 0.02
+                                }
+                            ],
+                            bg: 'https://main.qcloudimg.com/raw/0496ebf9f0a721242777516ea0b36963.png'
+                        }
+                    ]
+                }
+            },
+            components: {
+                'banner': Banner
+            }
+        })
+    </script>
+</body>
+</html>
