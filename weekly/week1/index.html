@@ -1,0 +1,124 @@
+<html>
+	<head>
+		<title>Ball in Cube</title>
+		<style>
+			body { margin: 0; }
+			/* canvas { width: 500px; height: 500px } */
+		</style>
+	</head>
+	<body>
+		<script src="../dep/three.js"></script>
+		<script>
+			var scene = new THREE.Scene();
+			// var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 1000 );
+			var colors = [0x295863, 0xFEFF8A, 0x8FFAF7, 0xFCA1A1];
+			var camera = new THREE.OrthographicCamera(-10, 10, -10, 10, -10, 10);
+			camera.position.z = 2;
+			var renderer = new THREE.WebGLRenderer();
+			// renderer.setSize( window.innerWidth, window.innerHeight );
+			renderer.setClearColor(colors[0]);
+			renderer.setSize(window.innerWidth,   window.innerWidth );
+			document.body.appendChild( renderer.domElement );
+
+			// var geometry = new THREE.BoxGeometry( 3, 3, 3 );
+			// var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
+			// var cube = new THREE.Mesh( geometry, material );
+			// // scene.add( cube );
+
+            // geometry = new THREE.SphereGeometry( 2, 32, 32 );
+            // material = new THREE.MeshBasicMaterial( {color: 0xffff00} );
+            // var sphere = new THREE.Mesh( geometry, material );
+
+			camera.position.z = 5;
+
+			var mesh = new THREE.Object3D();
+
+			function balls() {
+				var geometry = new THREE.SphereGeometry(0.2, 32, 32);
+				var ball, material;
+				for (i = 0; i < 3; i++) {
+					material = new THREE.MeshBasicMaterial({color: colors[3 - i]});
+					for (j = 0; j < 3; j++) {
+						for (k = 0; k < 3; k++) {
+							ball = new THREE.Mesh(geometry, material);
+							ball.position.x = j - 1;
+							ball.position.y = k - 1;
+							ball.position.z = i - 1;
+							mesh.add(ball);
+						}
+					}
+				}
+
+			}
+			balls();
+            scene.add(mesh);
+
+			// 缓动函数
+			function easeIn(t,b,c,d){
+				return c*(t/=d)*t*t*t + b;
+			}
+
+			// var t = 0;
+			var initX, initY, initZ, t;
+
+			var Rotate = function (object, option, w) {
+				// var roatXArc = Math.atan(1 / Math.sqrt(2));
+				initX = object.rotation.x;
+				initY = object.rotation.y;
+				initZ = object.rotation.z;
+				t = 0;
+				return function rotate() {
+					var roatZArc = option.ratationDeg.z;
+					var roatYArc = option.ratationDeg.y;
+					var roatXArc = option.ratationDeg.x;
+					if (object.rotation.x > initX - roatXArc) {
+						t += option.interval;
+						requestAnimationFrame(rotate);
+					}
+					else {
+						// 步长不能被1整除时的处理
+						// 不建议设置不能被1整除的步长 不然会闪一下
+						object.rotation.x = -roatXArc;
+						object.rotation.z = -roatZArc;
+						renderer.render(scene, camera);
+						t = 0;
+						return;
+					}
+					var d = easeIn(t, 0, 1, 1);
+
+					object.rotation.x = initX - d * roatXArc;
+					object.rotation.z = initZ - d * roatZArc;
+
+					renderer.render(scene, camera);
+				}
+			};
+
+			var r1 = Rotate(mesh, {
+				// xyz方向的旋转角度
+				ratationDeg: {
+					x: 1.55 * Math.atan(1 / Math.sqrt(2)),
+					y: 0,
+					z: Math.PI / 4
+				},
+				interval: 0.02,
+			});
+			r1();
+			var r2 = Rotate(mesh, {
+				// xyz方向的旋转角度
+				ratationDeg: {
+					x: 1.55 * Math.atan(1 / Math.sqrt(2)),
+					y: 0,
+					z: Math.PI / 4
+				},
+				interval: 0.02,
+			}, 'ww');
+
+			// setTimeout(r2, 1500);
+
+			document.addEventListener('click', function() {
+				r2();
+			});
+
+		</script>
+	</body>
+</html>
