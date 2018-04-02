@@ -17,7 +17,8 @@
 			var renderer = new THREE.WebGLRenderer();
 			// renderer.setSize( window.innerWidth, window.innerHeight );
 			renderer.setClearColor(colors[0]);
-			renderer.setSize(window.innerWidth,   window.innerWidth );
+			var width = window.innerWidth > window.innerHeight ? window.innerHeight : window.innerWidth;
+			renderer.setSize(width, width);
 			document.body.appendChild( renderer.domElement );
 
 			// var geometry = new THREE.BoxGeometry( 3, 3, 3 );
@@ -68,7 +69,6 @@
 				initZ = object.rotation.z;
 				t = 0;
 				return function rotate() {
-
 					var roatZArc = option.ratationDeg.z;
 					var roatYArc = option.ratationDeg.y;
 					var roatXArc = option.ratationDeg.x;
@@ -82,12 +82,14 @@
 						object.rotation.x = -roatXArc;
 						object.rotation.z = -roatZArc;
 						renderer.render(scene, camera);
+						t = 0;
 						return;
 					}
 					var d = easeIn(t, 0, 1, 1);
 
 					object.rotation.x = initX - d * roatXArc;
 					object.rotation.z = initZ - d * roatZArc;
+
 					renderer.render(scene, camera);
 				}
 			};
@@ -102,17 +104,21 @@
 				interval: 0.02,
 			});
 			r1();
-			document.addEventListener('click', function() {
+			var r2 = Rotate(mesh, {
+				// xyz方向的旋转角度
+				ratationDeg: {
+					x: 1.55 * Math.atan(1 / Math.sqrt(2)),
+					y: 0,
+					z: Math.PI / 4
+				},
+				interval: 0.02,
+			}, 'ww');
 
+			// setTimeout(r2, 1500);
+
+			document.addEventListener('click', function() {
+				r2();
 			});
-			// var r2 = Rotate(mesh, {
-			// 	ratationDeg: {
-			// 		x: 1.55 * Math.atan(1 / Math.sqrt(2)),
-			// 		y: 0,
-			// 		z: Math.PI / 4
-			// 	},
-			// 	interval: 0.02,
-			// });
 
 		</script>
 	</body>
