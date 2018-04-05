@@ -6,3 +6,4 @@
 
 [有点方的球球们](https://snailsword.github.io/biubiu/weekly/week1/index.html)
 
+[波动](https://snailsword.github.io/biubiu/weekly/week1/index.html)
