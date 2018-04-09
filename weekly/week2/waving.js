@@ -12,15 +12,16 @@ var width = 1000;
 c.height = height;
 c.width = width;
 var t = 0;
+var drawing = false;
 
 function SIN(x, i) {
-    return Math.abs(500 - x % 1000) / 500 * 150 * Math.sin((i + x) / 50);
+    return Math.abs(500 - x % 1000) / 500 * 100 * Math.sin((i + x) / 50);
 }
 
 function cSIN(x, i) {
     var a = x <= 500 ? x : 1000 - x; //负责张合的系数
     var b = i < width / 2 ? i : width - i;
-    return a * b / 150 / width * Math.sin((i + x) / 25) * 150;
+    return a * b / 200 / width * Math.sin((i + x) / 25) * 125;
     // if (x <= 500) {
     //     return (x / 500) * Math.sin((i + x) / 50) * 150;
     // }
@@ -30,7 +31,8 @@ function cSIN(x, i) {
 }
 
 var draw = function draw() {
-    t += 10;
+    drawing = true;
+    t += 5;
     cxt.beginPath();
     cxt.clearRect(0, 0, height, width);
     for (var i = 0; i < width; i += 8) {
@@ -53,7 +55,7 @@ var draw = function draw() {
 draw();
 
 var drawC = function drawC() {
-    t += 10;
+    t += 5;
     cxt.beginPath();
     cxt.clearRect(0, 0, height, width);
     for (var i = 0; i < width; i += 8) {
@@ -68,5 +70,22 @@ var drawC = function drawC() {
     cxt.closePath();
     if (t < 1000) {
         requestAnimationFrame(drawC);
+    } else {
+        drawing = false;
     }
 };
+
+document.addEventListener('click', function () {
+    if (drawing) {
+        return;
+    }
+    t = 500;
+    draw();
+});
+document.addEventListener('touchstart', function () {
+    if (drawing) {
+        return;
+    }
+    t = 500;
+    draw();
+});
