@@ -6,8 +6,8 @@ let colors = [0x295863, 0xFEFF8A, 0x8FFAF7, 0xFCA1A1];
 renderer.setClearColor(colors[0]);
 document.body.appendChild(renderer.domElement);
 
-let w = 13;
-let h = 175;
+let w = 50;
+let h = 200;
 // let geometry = new THREE.SphereGeometry(3, 32, 32);
 // SphereGeometry取不到顶点信息
 let geometry = new THREE.SphereGeometry(7, w, h);
@@ -21,36 +21,46 @@ let ballVertices = ball.geometry.vertices;
 // let mesh = new THREE.Object3D();
 
 // let boxGeometry, cube;
-let boxGeometry = new THREE.BoxGeometry(0.1, 0.1, 0.1);
 // for (let i = 0; i < ballVertices.length; i++) {
-//     cube = new THREE.Mesh(boxGeometry, material);
-//     if (i % 101 === 30) {
-//         cube.position.set(ballVertices[i].x, ballVertices[i].y, ballVertices[i].z);
-//         mesh.add(cube);
-//     }
+    //     cube = new THREE.Mesh(boxGeometry, material);
+    //     if (i % 101 === 30) {
+        //         cube.position.set(ballVertices[i].x, ballVertices[i].y, ballVertices[i].z);
+        //         mesh.add(cube);
+        //     }
 
-// }
+        // }
 
-// scene.add(mesh);
-// renderer.render(scene, camera);
-
-let t = h - w;
+        // scene.add(mesh);
+        // renderer.render(scene, camera);
+let boxGeometry = new THREE.BoxGeometry(0.05, 0.05, 0.05);
+let mesh = new THREE.Object3D();
+// mesh.rotation.set(new THREE.Vector3(Math.PI, 0 , 0));
+mesh.rotation.x = Math.PI;
+let t = 0;
 let cube, i;
 function renderIt() {
     for (let j = 0; j < w; j++) {
-        i = w * t + j;
-        cube = new THREE.Mesh(boxGeometry, material);
-        cube.position.set(ballVertices[i].x, ballVertices[i].y, ballVertices[i].z);
-        scene.add(cube);
+        for (let k = 10; k > 0; k--) {
+            i = Math.floor(w * t * k / 10) + j;
+            if (i < w * (h - 1) + 2) {
+                cube = new THREE.Mesh(boxGeometry, material);
+                cube.position.set(ballVertices[i].x, ballVertices[i].y, ballVertices[i].z);
+                if (t < h) {
+                    mesh.add(cube);
+                }
+            }
+        }
     }
+
+    scene.add(mesh);
+    mesh.rotateY(0.01);
+    mesh.rotateZ(0.02);
     renderer.render(scene, camera);
-    while(scene.children.length > 0){
-        scene.remove(scene.children[0]);
+    if (t < h - 1) {
+        mesh.children = [];
     }
-    t--;
-    if (i > w) {
-        requestAnimationFrame(renderIt);
-    }
+    t++;
+    requestAnimationFrame(renderIt);
 }
 
 renderIt();
