@@ -49,7 +49,7 @@ scene.add(cube);
 box.rotateX(-0.1);
 
 function render() {
-    box.rotateY(0.02);
+    box.rotateY(0.005);
     // box.rotateZ(0.01);
     renderer.render(scene, camera);
     requestAnimationFrame(render);
