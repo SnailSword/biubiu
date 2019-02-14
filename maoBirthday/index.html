@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>最小化demo</title>
+    <script type="text/javascript" src="./dnd.js"></script>
+    <style>
+      html, body { width:100%; height:100%; }
+      body { margin:0; padding:20px; box-sizing:border-box; }
+      .drop { margin:20px auto; width:100%; height:60%; }
+      .drag-box {
+        position: absolute;
+        bottom: 20px;
+      }
+      .drag-box .drag {
+        /* display: block; */
+        /* width: 400px; */
+        text-align: center;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="drop"></div>
+    <div class="drag-box" id="drag-box">
+      <span class="drag">
+        <img src="./sun.jpg" width="200px" alt="一个太阳" srcset="">
+      </span>
+    </div>
+  </body>
+
+  <script>
+    var Drag = dnd.Drag
+    var Drop = dnd.Drop
+    new Drag('.drag')
+    new Drop('.drop', {
+      onDrop: function (params) {
+        console.log(params)
+        params.el.innerText = '毛衣毛24岁"升日"快乐！';
+        document.getElementById('drag-box').removeChild(params.sourceNode);
+      }
+
+    })
+  </script>
+</html>
