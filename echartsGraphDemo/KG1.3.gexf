@@ -1,0 +1,4186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-06-06">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="modularity_class" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="鼓浪屿">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="18.970589"></viz:size>
+        <viz:position x="-1004.0325" y="120.44375"></viz:position>
+        <viz:color r="237" g="113" b="81"></viz:color>
+      </node>
+      <node id="1" label="厦门">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.617647"></viz:size>
+        <viz:position x="-792.7751" y="716.1104"></viz:position>
+        <viz:color r="241" g="229" b="224"></viz:color>
+      </node>
+      <node id="2" label="安静">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1476.9281" y="293.29266"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="3" label="挥霍">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1337.6727" y="284.61987"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="4" label="苏小糖">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1370.4419" y="162.10155"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="5" label="岛上">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1433.745" y="356.10242"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="6" label="码头">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1376.2135" y="403.20538"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="7" label="船票">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1245.0985" y="426.7726"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="8" label="日光岩">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1287.8491" y="218.02261"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="9" label="小岛">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1423.2313" y="275.59576"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="10" label="人很多">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="10.941176"></viz:size>
+        <viz:position x="-16.954432" y="2.0897422"></viz:position>
+        <viz:color r="238" g="189" b="171"></viz:color>
+      </node>
+      <node id="11" label="值得去">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="-5.6180463" y="2.9123993"></viz:position>
+        <viz:color r="237" g="186" b="168"></viz:color>
+      </node>
+      <node id="12" label="适合情侣">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="-706.97064" y="-55.19332"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="13" label="有小吃">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="7.8529415"></viz:size>
+        <viz:position x="-540.54663" y="-289.9711"></viz:position>
+        <viz:color r="240" g="217" b="209"></viz:color>
+      </node>
+      <node id="14" label="逛一天">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="7.2352943"></viz:size>
+        <viz:position x="-275.36636" y="-394.2115"></viz:position>
+        <viz:color r="241" g="223" b="216"></viz:color>
+      </node>
+      <node id="15" label="Kulangsu，koolangsu">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1408.2062" y="-76.7467"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="16" label="圆沙洲、圆洲仔、钢琴岛">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1310.5228" y="117.44514"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="17" label="街道">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="-946.17505" y="-123.9138"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="18" label="厦门市思明区">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1340.1558" y="-12.331887"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="19" label="龙头社区、内厝澳社区">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1505.0814" y="116.284584"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="20" label="厦门市思明区鼓浪屿永春路89号">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1501.0939" y="230.6623"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="21" label="+86（0）592">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1253.8672" y="366.52435"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="22" label="361001">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1327.2306" y="358.12527"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="23" label="厦门岛西南隅、九龙江入海口">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1369.0072" y="224.69849"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="24" label="1.91平方千米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1415.9049" y="18.673862"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="25" label="约2万人">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1447.5781" y="152.25969"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="26" label="闽南语（厦门话）-闽台片">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1450.422" y="-42.35367"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="27" label="亚热带海洋性季风气候">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1262.8674" y="300.0608"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="28" label="日光岩、菽庄花园、皓月园、毓园、鼓浪石">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1483.014" y="-0.6629819"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="29" label="禁止">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1386.6302" y="328.10532"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="30" label="馅饼、肉脯、海蛎煎、沙茶面等">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1503.6624" y="59.098022"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="31" label="钢琴码头 三丘田码头 内厝澳码头">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1386.589" y="100.00976"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="32" label="舒婷、林巧稚、马约翰">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1310.253" y="428.23743"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="33" label="演武大桥、厦门大学、漳州港等">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1511.5374" y="172.25296"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="34" label="嘉禾屿、火烧屿、大屿、猫屿等">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1355.6923" y="-74.25281"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="35" label="鼓浪屿之波">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1442.1411" y="214.11536"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="36" label="中国">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="8.161764"></viz:size>
+        <viz:position x="-90.86848" y="-226.5749"></viz:position>
+        <viz:color r="240" g="215" b="205"></viz:color>
+      </node>
+      <node id="37" label="厦门市">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1443.2172" y="73.48278"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="38" label="全天">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="7.544118"></viz:size>
+        <viz:position x="-398.10678" y="-101.87856"></viz:position>
+        <viz:color r="240" g="220" b="213" a="0.99607843"></viz:color>
+      </node>
+      <node id="39" label="1-2天">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="-484.40256" y="618.7055"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="40" label="四季适宜">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1341.4536" y="46.990223"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="41" label="故宫">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="15.882353"></viz:size>
+        <viz:position x="12.866886" y="-959.3125"></viz:position>
+        <viz:color r="234" g="144" b="111"></viz:color>
+      </node>
+      <node id="42" label="北京">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.9264708"></viz:size>
+        <viz:position x="298.72528" y="-514.89856"></viz:position>
+        <viz:color r="241" g="226" b="220"></viz:color>
+      </node>
+      <node id="43" label="钟表">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="14.548583" y="-1419.6179"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="44" label="三宫六院">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="103.50267" y="-1325.7593"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="45" label="以乾">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-78.43687" y="-1415.3035"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="46" label="珍宝馆">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-164.92682" y="-1343.5972"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="47" label="午门">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-13.79315" y="-1484.6697"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="48" label="讲解">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="348.2359" y="-933.5989"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="49" label="宫殿">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="124.82762" y="-1392.1112"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="50" label="租讲解器">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="304.0838" y="-923.991"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="51" label="文化底蕴">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.617647"></viz:size>
+        <viz:position x="-192.5647" y="175.5899"></viz:position>
+        <viz:color r="241" g="229" b="224"></viz:color>
+      </node>
+      <node id="52" label="北京故宫">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-222.02946" y="-1365.709"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="53" label="明清">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-30.05876" y="-1330.2479"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="54" label="北京市">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="-102.16204" y="-648.16003"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="55" label="72万平方米（建筑面积约15万平方米）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="190.25612" y="-1401.5406"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="56" label="世界文化遗产">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-194.08965" y="-1421.0887"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="57" label="第一批全国重点文物保护单位">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="240.65137" y="-1118.4113"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="58" label="联合国教科文组织">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-27.028786" y="-1383.1985"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="59" label="中华人民共和国国务院">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-97.39463" y="-1334.7831"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="60" label="III-100">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="92.684204" y="-1474.8892"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="61" label="60元旺季/40元淡季">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="68.10596" y="-1407.6713"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="62" label="4.1-10.31：08:20-17:00；11.1-3.31：08:30-16:30；每周一闭馆">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="37.729942" y="-1480.363"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="63" label="国家AAAAA级旅游景区">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="148.7518" y="-1451.606"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="64" label="清明上河图">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="167.70407" y="-1338.7715"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="65" label="乾隆款金瓯永固杯">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-62.706226" y="-1474.7433"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="66" label="酗亚方樽">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-125.81632" y="-1467.533"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="67" label="紫禁城">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="37.71877" y="-1330.8181"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="68" label="建筑">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.9264708"></viz:size>
+        <viz:position x="474.18057" y="-657.7353"></viz:position>
+        <viz:color r="241" g="226" b="220"></viz:color>
+      </node>
+      <node id="69" label="地点">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="8.161764"></viz:size>
+        <viz:position x="-79.76659" y="-313.90775"></viz:position>
+        <viz:color r="240" g="215" b="205"></viz:color>
+      </node>
+      <node id="70" label="博物馆">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="291.79623" y="-876.48315"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="71" label="人物">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-138.45813" y="-1403.9219"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="72" label="外滩">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="15.882353"></viz:size>
+        <viz:position x="-50.49186" y="331.96503"></viz:position>
+        <viz:color r="234" g="144" b="111"></viz:color>
+      </node>
+      <node id="73" label="上海">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="117.36004" y="652.8925"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="74" label="漫步">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-318.29047" y="499.18582"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="75" label="浦江两岸">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-229.43724" y="696.6116"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="76" label="巨轮">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-255.62622" y="572.64404"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="77" label="东方明珠">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="157.5198" y="596.85583"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="78" label="夜景">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="-344.19208" y="332.51544"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="79" label="黄浦江">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="40.19581" y="644.2835"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="80" label="万国">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-245.52902" y="474.64896"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="81" label="陆家嘴">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="102.047295" y="556.8437"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="82" label="夜景很美">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.9264708"></viz:size>
+        <viz:position x="-34.82395" y="-221.7497"></viz:position>
+        <viz:color r="241" g="226" b="220"></viz:color>
+      </node>
+      <node id="83" label="黄浦江边">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-38.46226" y="606.46326"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="84" label="交通方便">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="8.779411"></viz:size>
+        <viz:position x="222.85048" y="-110.57861"></viz:position>
+        <viz:color r="239" g="209" b="198"></viz:color>
+      </node>
+      <node id="85" label="The Bund">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-50.430225" y="676.73926"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="86" label="上海市黄浦区，黄浦江西岸">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-186.67532" y="542.6058"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="87" label="亚热带季风气候">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.617647"></viz:size>
+        <viz:position x="503.96414" y="228.095"></viz:position>
+        <viz:color r="241" g="229" b="224"></viz:color>
+      </node>
+      <node id="88" label="免费开放">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-97.34684" y="723.84644"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="89" label="外白渡桥">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-7.723719" y="722.57465"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="90" label="黄浦公园">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-117.6915" y="627.5774"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="91" label="沙逊大厦">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-157.47214" y="705.89185"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="92" label="百老汇大厦">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-278.3274" y="640.8503"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="93" label="1906年">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="26.215952" y="555.5991"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="94" label="全国重点文物保护单位">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-321.6985" y="571.2902"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="95" label="外滩万国建筑博览群">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="70.6642" y="705.28906"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="96" label="52幢">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-187.79973" y="637.0249"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="97" label="1.5公里">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-117.16177" y="542.553"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="98" label="旅游">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="7.544118"></viz:size>
+        <viz:position x="358.4577" y="-239.64082"></viz:position>
+        <viz:color r="240" g="220" b="213" a="0.99607843"></viz:color>
+      </node>
+      <node id="99" label="地理">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="7.2352943"></viz:size>
+        <viz:position x="-310.94843" y="-68.67032"></viz:position>
+        <viz:color r="241" g="223" b="216"></viz:color>
+      </node>
+      <node id="100" label="锦里">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="14.6470585"></viz:size>
+        <viz:position x="-229.53568" y="-434.80267"></viz:position>
+        <viz:color r="235" g="155" b="126"></viz:color>
+      </node>
+      <node id="101" label="成都">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-453.06598" y="-675.9134"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="102" label="摆糖">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-391.9614" y="-777.12683"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="103" label="街里">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-522.97815" y="-714.78906"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="104" label="起灯">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-366.4503" y="-647.978"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="105" label="武侯祠">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-386.84186" y="-712.96185"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="106" label="小吃">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.617647"></viz:size>
+        <viz:position x="-450.69003" y="-185.00194"></viz:position>
+        <viz:color r="241" g="229" b="224"></viz:color>
+      </node>
+      <node id="107" label="宽窄">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-531.19006" y="-550.6423"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="108" label="巷子">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="-348.6978" y="-457.94293"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="109" label="酒吧">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="-589.8626" y="-656.0959"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="110" label="In the jin">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-271.9409" y="-678.00916"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="111" label="成都武侯祠大街231号">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-463.1402" y="-747.6703"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="112" label="亚热带季风性湿润气候">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-256.57532" y="-756.1159"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="113" label="30000余平方米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-184.52892" y="-740.83594"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="114" label="全天开放">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.617647"></viz:size>
+        <viz:position x="339.0979" y="-290.97855"></viz:position>
+        <viz:color r="241" g="229" b="224"></viz:color>
+      </node>
+      <node id="115" label="免费">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.9264708"></viz:size>
+        <viz:position x="144.91753" y="-168.9664"></viz:position>
+        <viz:color r="241" g="226" b="220"></viz:color>
+      </node>
+      <node id="116" label="莲花府邸酒吧">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-438.43985" y="-582.7625"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="117" label="四川省成都市">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-495.02618" y="-619.5433"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="118" label="2-3小时">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="-364.41107" y="-388.55408"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="119" label="3到6月或9到11月">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-320.5289" y="-757.18964"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="120" label="丽江古城">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="15.882353"></viz:size>
+        <viz:position x="-688.7887" y="-689.88947"></viz:position>
+        <viz:color r="234" g="144" b="111"></viz:color>
+      </node>
+      <node id="121" label="丽江">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="-520.94653" y="-856.5719"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="122" label="古城">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="-505.0303" y="-896.37506"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="123" label="一米阳光">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-983.3535" y="-1114.6501"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="124" label="八九百">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1089.1371" y="-992.6767"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="125" label="古镇">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-919.05383" y="-997.4866"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="126" label="大研">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-948.99036" y="-1071.4528"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="127" label="客栈">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1104.8055" y="-806.5147"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="128" label="历史悠久">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.617647"></viz:size>
+        <viz:position x="-545.8046" y="-633.5677"></viz:position>
+        <viz:color r="241" g="229" b="224"></viz:color>
+      </node>
+      <node id="129" label="Old Town of Lijiang">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1122.5884" y="-951.9915"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="130" label="云南省丽江市古城区">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1064.6244" y="-845.2063"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="131" label="西南季风气候">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1152.1882" y="-831.62494"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="132" label="7.279平方公里">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1046.0411" y="-1013.7331"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="133" label="全天候">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-865.4865" y="-1139.5111"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="134" label="AAAAA级">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.617647"></viz:size>
+        <viz:position x="64.81451" y="-149.61737"></viz:position>
+        <viz:color r="241" g="229" b="224"></viz:color>
+      </node>
+      <node id="135" label="古城维护费80元（8：30-19：00）；2019年1月1日起降为50元">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-916.45935" y="-1123.0146"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="136" label="木府">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1027.7216" y="-951.477"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="137" label="万古楼">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-834.0543" y="-1093.0797"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="138" label="大石桥">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1004.32794" y="-886.2655"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="139" label="白马龙潭寺等">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-877.5988" y="-1050.6448"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="140" label="云南省丽江市">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1075.2775" y="-902.96936"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="141" label="一年四季">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-962.1082" y="-949.53033"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="142" label="1-3天">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1041.1542" y="-1064.6129"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="143" label="中国云南省">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1145.4152" y="-893.4776"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="144" label="景观景点">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-983.47327" y="-1031.2437"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="145" label="西湖">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="20.205883"></viz:size>
+        <viz:position x="1061.6484" y="128.28648"></viz:position>
+        <viz:color r="239" g="100" b="70"></viz:color>
+      </node>
+      <node id="146" label="杭州">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1304.7697" y="416.4599"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="147" label="风景名胜">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1481.1445" y="318.81192"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="148" label="以一山">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1550.5262" y="162.87288"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="149" label="壹圆">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1419.1812" y="-71.34571"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="150" label="断桥">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1449.6095" y="5.9716883"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="151" label="苏堤">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1431.9669" y="369.31042"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="152" label="白堤">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1349.5663" y="175.6651"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="153" label="雷峰塔">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1529.8784" y="103.77093"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="154" label="自行车">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="783.4089" y="-399.95398"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="155" label="景色很美">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.617647"></viz:size>
+        <viz:position x="690.3573" y="13.1330805"></viz:position>
+        <viz:color r="241" g="229" b="224"></viz:color>
+      </node>
+      <node id="156" label="玩一天">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="659.3188" y="620.2209"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="157" label="杭州西湖">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1512.4495" y="374.17206"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="158" label="West Lake Cultural Landscape of Hangzhou">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1575.162" y="59.011803"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="159" label="中国浙江杭州市">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1387.5" y="63.412785"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="160" label="约6.4平方千米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1591.4791" y="201.02287"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="161" label="国家5A级风景名胜区">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1338.2614" y="467.35593"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="162" label="西湖十景新西湖十景三评西湖十景">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1518.8302" y="211.77045"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="163" label="世界文化景观遗产">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1407.7954" y="215.72035"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="164" label="3.2千米（南北）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1457.8875" y="254.05865"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="165" label="2.8千米（东西）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1384.1318" y="-9.083773"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="166" label="6.39平方千米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1473.0653" y="166.07933"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="167" label="2.28米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1482.8809" y="418.33713"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="168" label="1429万立方米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1549.2975" y="327.196"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="169" label="15千米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1404.6323" y="304.7942"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="170" label="30°14′45″N120°8′30″E">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1576.4904" y="262.14896"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="171" label="《饮湖上初晴后雨》等">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1306.5337" y="340.02432"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="172" label="孤山">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1392.3737" y="457.45737"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="173" label="保俶塔">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1593.8987" y="120.583305"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="174" label="小瀛洲">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1344.672" y="271.5471"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="175" label="湖心亭">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1482.9056" y="-71.82904"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="176" label="阮公墩">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1401.4489" y="130.44182"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="177" label="杨公堤">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1434.2637" y="435.49506"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="178" label="北山街">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1500.4154" y="44.206627"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="179" label="南山路">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1367.9469" y="381.50824"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="180" label="湖滨路">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1464.083" y="91.4117"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="181" label="3-6小时">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1521.9705" y="273.30383"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="182" label="3-5月、9-11月">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1516.847" y="-34.473434"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="183" label="城市">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1551.513" y="4.067985"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="184" label="地形地貌">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="727.63007" y="124.42153"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="185" label="公园">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.617647"></viz:size>
+        <viz:position x="578.511" y="387.9631"></viz:position>
+        <viz:color r="241" g="229" b="224"></viz:color>
+      </node>
+      <node id="186" label="厦门大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="27.0"></viz:size>
+        <viz:position x="-784.77747" y="1540.4232"></viz:position>
+        <viz:color r="248" g="31" b="7"></viz:color>
+      </node>
+      <node id="187" label="校园">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-531.75916" y="1851.5657"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="188" label="建南">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1135.1022" y="1715.0895"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="189" label="南强">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-943.78394" y="1813.0604"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="190" label="厦大">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-562.60004" y="1952.2638"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="191" label="芙蓉">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1182.3481" y="1754.931"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="192" label="隧道">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-637.74493" y="1850.4419"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="193" label="大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1053.2128" y="1685.9304"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="194" label="中午12点开放">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1124.8779" y="1523.8081"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="195" label="有餐厅">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-910.825" y="2032.3217"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="196" label="Xiamen University">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-989.4487" y="1741.2281"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="197" label="厦大（XMU）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1014.05286" y="1599.6986"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="198" label="陈嘉庚">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1065.1204" y="1545.6692"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="199" label="1921年04月06日">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-761.7198" y="1993.1703"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="200" label="公立大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1147.1703" y="1601.418"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="201" label="综合类">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-729.1927" y="2044.9135"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="202" label="211工程（1997年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-742.17816" y="1804.4187"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="203" label="985工程（2001年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-860.5611" y="2057.5532"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="204" label="111计划（2006年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-598.8134" y="1802.1189"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="205" label="2011计划（2014年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-773.6596" y="1718.545"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="206" label="世界一流大学建设高校（2017年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1072.7212" y="1973.4824"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="207" label="中华人民共和国教育部">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-966.73376" y="2035.8936"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="208" label="党委书记：张彦">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1237.6517" y="1647.8245"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="209" label="校长：张荣">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1185.3474" y="1670.9554"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="210" label="院士22人（含双聘院士9人）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-827.76086" y="1972.5834"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="211" label="学术学位授权一级学科52个">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1213.0437" y="1589.5189"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="212" label="学术学位授权二级学科3个（不含一级学科覆盖）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-898.5117" y="1724.3905"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="213" label="专业学位授权类别24个">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-906.99365" y="1921.6144"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="214" label="学术学位授权一级学科33个">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1015.3919" y="1831.3544"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="215" label="专业学位授权类别1个">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-614.26746" y="1722.9529"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="216" label="科研流动站31个">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-683.92725" y="2027.5544"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="217" label="一级学科5个">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-893.22174" y="1973.562"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="218" label="二级学科9个（不含一级学科覆盖）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-702.1125" y="1965.2026"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="219" label="经济学院 管理学院 法学院 新闻传播学院 信息科学与技术学院等28个学院（含88个系）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1111.8049" y="1788.377"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="220" label="自强不息止于至善">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1219.1534" y="1797.1713"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="221" label="厦门大学校歌">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-888.7009" y="1855.6052"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="222" label="4月6日">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1152.9491" y="1825.6501"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="223" label="思明校区：福建省厦门市思明区思明南路422号（361005）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1233.7142" y="1719.4813"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="224" label="翔安校区：福建省厦门市翔安区翔安南路（361102）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-707.9357" y="1869.9382"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="225" label="漳州校区：福建漳州招商局经济技术开发区南滨大道300号（363105）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-760.0293" y="1922.4854"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="226" label="马来西亚分校：马来西亚雪兰莪州雪邦沙叻丁宜（43900）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-632.44934" y="2010.3152"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="227" label="10384">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-786.87006" y="2065.5623"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="228" label="国家自然科学二等奖4项（十二五）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-620.06573" y="1956.8583"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="229" label="国际科学技术合作奖1项（十二五）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1109.117" y="1648.9845"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="230" label="2013年中国科学十大进展">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-532.53796" y="1789.6284"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="231" label="第五、六、七届国家级高等教育教学成果一等奖3项">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-962.4606" y="1974.3456"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="232" label="全国毕业生就业典型经验高校（2014年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-568.6158" y="1894.4523"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="233" label="陈景润">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-843.09076" y="1786.869"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="234" label="余光中">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-795.19855" y="1851.3667"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="235" label="张高丽">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-814.02734" y="2027.0845"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="236" label="卢嘉锡">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1134.8916" y="1890.3018"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="237" label="张存浩">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1184.7833" y="1530.9719"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="238" label="谢希德">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-943.9769" y="1657.2905"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="239" label="中国高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1120.714" y="1936.754"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="240" label="公办高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1075.7463" y="1852.2936"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="241" label="研究生院高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1022.2423" y="2006.2227"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="242" label="211高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1005.3961" y="1936.1346"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="243" label="985高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1062.0392" y="1767.2573"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="244" label="专科高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-659.0123" y="1917.497"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="245" label="综合类高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1190.211" y="1863.7072"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="246" label="教育部隶属高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-972.9017" y="1883.2445"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="247" label="福建高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-836.3035" y="1913.8373"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="248" label="本科高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1061.8333" y="1910.1077"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="249" label="学校">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-679.68555" y="1767.0692"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="250" label="天安门广场">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="14.338235"></viz:size>
+        <viz:position x="914.5619" y="-482.27826"></viz:position>
+        <viz:color r="235" g="158" b="130"></viz:color>
+      </node>
+      <node id="251" label="升降">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1386.7009" y="-582.4847"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="252" label="仪式">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1278.8292" y="-606.00824"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="253" label="清晨">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1299.6586" y="-549.9755"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="254" label="天安门">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1392.7944" y="-640.16254"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="255" label="升旗">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1268.4639" y="-808.65137"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="256" label="广场">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1374.6278" y="-532.32227"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="257" label="安检">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1275.8389" y="-749.3571"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="258" label="升旗仪式">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1353.2544" y="-743.6265"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="259" label="中国象征">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="902.9263" y="32.010033"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="260" label="需要安检">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1322.9443" y="-788.4415"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="261" label="Tiananmen Square">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1227.8142" y="-846.8315"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="262" label="北京市东城区东长安街">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1243.4778" y="-663.2815"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="263" label="温带季风气候">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.617647"></viz:size>
+        <viz:position x="786.13055" y="-20.948103"></viz:position>
+        <viz:color r="241" g="229" b="224"></viz:color>
+      </node>
+      <node id="264" label="44万平方米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1196.5365" y="-800.4307"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="265" label="升旗前至降旗后开放">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1214.7079" y="-735.5244"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="266" label="免票">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1370.4749" y="-693.0985"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="267" label="人民英雄纪念碑">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1300.1135" y="-692.5087"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="268" label="毛主席纪念堂">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1333.5096" y="-496.078"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="269" label="5：00——22：00">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1329.9237" y="-629.29535"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="270" label="文物考古">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="875.19763" y="-673.37054"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="271" label="历史">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="828.0572" y="-654.3635"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="272" label="秦始皇兵马俑博物馆">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="14.029412"></viz:size>
+        <viz:position x="474.86285" y="-584.3413"></viz:position>
+        <viz:color r="235" g="161" b="134"></viz:color>
+      </node>
+      <node id="273" label="临潼">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="646.52844" y="-836.9918"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="274" label="兵马俑">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="787.38336" y="-828.2886"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="275" label="陶俑">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="674.67664" y="-921.1097"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="276" label="战车">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="789.7602" y="-750.3484"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="277" label="西安">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.617647"></viz:size>
+        <viz:position x="5.9847016" y="-584.3644"></viz:position>
+        <viz:color r="241" g="229" b="224"></viz:color>
+      </node>
+      <node id="278" label="导游">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="865.243" y="-872.6045"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="279" label="秦始皇">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="795.76514" y="-950.50934"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="280" label="Emperor Qinshihuang's Mausoleum Site Museum">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="817.6798" y="-898.30054"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="281" label="历史博物馆">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="715.293" y="-771.0975"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="282" label="陕西省西安市临潼区">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="854.98505" y="-764.1079"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="283" label="3月16日-11月15日8:30-18:35；11月16日-次年3月15日：8:30-18:05">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="713.1892" y="-845.1753"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="284" label="1979年10月1日开馆">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="723.74603" y="-956.16406"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="285" label="218万平方米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="753.23395" y="-899.14246"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="286" label="150元（旺）120元（淡）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="614.1249" y="-910.27515"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="287" label="国家一级博物馆">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="866.0126" y="-818.56604"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="288" label="回民街">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="15.573529"></viz:size>
+        <viz:position x="-593.8137" y="-337.16266"></viz:position>
+        <viz:color r="234" g="147" b="115"></viz:color>
+      </node>
+      <node id="289" label="凉皮">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-941.1841" y="-604.89307"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="290" label="回坊">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1004.1874" y="-270.59784"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="291" label="泡馍">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-982.55707" y="-402.15002"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="292" label="羊肉">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1001.17004" y="-477.6703"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="293" label="肉夹馍">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1049.5636" y="-392.40457"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="294" label="西羊市">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1034.7579" y="-334.8158"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="295" label="北广济街、回坊">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1034.1134" y="-525.2732"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="296" label="莲湖区北院门街道化觉巷社区">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-917.3852" y="-545.626"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="297" label="huí mín jiē">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-846.263" y="-563.6918"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="298" label="中华人民共和国陕西省西安市">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-867.68506" y="-623.50226"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="299" label="1990年代末期">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-872.0681" y="-483.153"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="300" label="清真寺">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-969.7564" y="-329.16663"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="301" label="美食文化街区">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-906.7584" y="-408.24072"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="302" label="西北风情">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-946.3312" y="-476.3705"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="303" label="North Guangji Street、Huis' Street">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-932.86865" y="-251.98749"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="304" label="5小时">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-1052.0522" y="-450.58395"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="305" label="春夏秋">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-907.5019" y="-334.96286"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="306" label="伊斯兰教">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-982.1438" y="-552.8045"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="307" label="八达岭长城">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="15.264706"></viz:size>
+        <viz:position x="642.7612" y="465.48596"></viz:position>
+        <viz:color r="234" g="149" b="119"></viz:color>
+      </node>
+      <node id="308" label="延庆">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="703.92017" y="807.5653"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="309" label="长城">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="950.923" y="655.84753"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="310" label="敌楼">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1004.3731" y="574.71405"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="311" label="九塞">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="699.17535" y="871.3163"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="312" label="八达岭">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="835.1858" y="768.3023"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="313" label="不到长城非好汉">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="770.76526" y="758.79553"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="314" label="缆车">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="995.1077" y="704.1638"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="315" label="滑车">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="933.96106" y="592.3082"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="316" label="离市区远">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="886.95825" y="796.0074"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="317" label="Badaling Great Wall">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1023.7742" y="770.3311"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="318" label="北京市延庆区军都山关沟古道北口">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1051.6912" y="701.85175"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="319" label="旺季：6:30-19:00，其中暑期6:00-19:30；淡季：7:30-18:00">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="850.6571" y="858.3683"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="320" label="旺季40元 淡季35元 学生半价">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="759.38995" y="890.3708"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="321" label="岔道城等">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="957.94116" y="752.5732"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="322" label="人物景观">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="782.9895" y="829.6634"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="323" label="八达岭站、八达岭西站">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="933.33496" y="820.7912"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="324" label="北京市延庆区">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="982.1238" y="826.218"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="325" label="3-4小时">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="821.06445" y="904.923"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="326" label="4">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="908.9763" y="884.25104"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="327" label="5">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="904.38824" y="711.2628"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="328" label="9">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="842.8065" y="678.06494"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="329" label="10月">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="1031.6105" y="635.79834"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="330" label="南锣鼓巷">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="14.029412"></viz:size>
+        <viz:position x="-260.0121" y="-256.4343"></viz:position>
+        <viz:color r="235" g="161" b="134"></viz:color>
+      </node>
+      <node id="331" label="胡同">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-491.63058" y="-400.76733"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="332" label="时尚">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-451.70712" y="-41.90367"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="333" label="所行">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-612.8603" y="-199.56447"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="334" label="小店">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-481.94504" y="-258.42215"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="335" label="文宇">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-609.7224" y="-279.56125"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="336" label="奶酪">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-458.08752" y="-322.2326"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="337" label="四季各有特色">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-567.19403" y="-404.0599"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="338" label="文宇奶酪店,万庆当铺">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-500.20395" y="-90.1615"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="339" label="四季皆宜">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="67.73773" y="-585.09753"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="340" label="北京市 东城区南锣鼓巷胡同">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-566.0943" y="-110.949615"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="341" label="自然资源">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-546.3781" y="-182.90549"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="342" label="颐和园">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="14.955882"></viz:size>
+        <viz:position x="521.9838" y="-220.9602"></viz:position>
+        <viz:color r="235" g="152" b="123"></viz:color>
+      </node>
+      <node id="343" label="万寿山">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="848.23334" y="-217.01881"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="344" label="昆明湖">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="917.608" y="-355.67624"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="345" label="全园">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="785.45557" y="-135.66798"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="346" label="皇家">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="941.86163" y="-297.04163"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="347" label="园林">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="770.9246" y="-211.86957"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="348" label="佛香阁">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="851.9327" y="-356.25983"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="349" label="宫门">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="860.88306" y="-283.01443"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="350" label="The Summer Palace">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="856.6999" y="-420.7141"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="351" label="290公顷">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="936.7608" y="-182.9036"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="352" label="6:30—18:00（大门开放时间）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="923.3818" y="-239.03415"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="353" label="30元/张（旺季），20元/张（淡季）学生票半价">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="733.047" y="-282.51746"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="354" label="十七孔桥">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="687.46967" y="-461.8396"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="355" label="乾隆十五年（1750年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="788.75696" y="-326.93137"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="356" label="人文景观、历史景观">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="693.1194" y="-386.99496"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="357" label="北京市海淀区">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="771.6088" y="-465.7581"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="358" label="4-5小时">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="882.819" y="-151.79869"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="359" label="四季皆宜色">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="855.15466" y="-95.35112"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="360" label="大理古城">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="15.264706"></viz:size>
+        <viz:position x="-148.3663" y="-660.88947"></viz:position>
+        <viz:color r="234" g="149" b="119"></viz:color>
+      </node>
+      <node id="361" label="大理">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="111.287155" y="-374.7605"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="362" label="泡酒吧">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-389.8169" y="-1045.6454"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="363" label="养花">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-331.6332" y="-993.03357"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="364" label="天气晴好">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-387.9482" y="-964.98724"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="365" label="洱海">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="14.955882"></viz:size>
+        <viz:position x="269.42902" y="2.5186436"></viz:position>
+        <viz:color r="235" g="152" b="123"></viz:color>
+      </node>
+      <node id="366" label="苍山">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="72.374306" y="-347.55896"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="367" label="洋人街">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-368.34296" y="-1088.6346"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="368" label="Dali Old City">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-138.41808" y="-984.4478"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="369" label="云南省大理白族自治州大理市">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-194.54984" y="-1011.95807"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="370" label="亚热带高原季风气候">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-257.37326" y="-983.91"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="371" label="3平方公里">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-300.6592" y="-1045.5079"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="372" label="AAAA级">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.3088236"></viz:size>
+        <viz:position x="112.142685" y="-885.9912"></viz:position>
+        <viz:color r="241" g="232" b="228"></viz:color>
+      </node>
+      <node id="373" label="自由行免费，团客30元">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-433.519" y="-1020.18243"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="374" label="大理三塔">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-246.7274" y="-1064.7277"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="375" label="3-4月">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-156.56891" y="-1070.9333"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="376" label="6-8小时">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-308.13882" y="-1111.3087"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="377" label="云南省大理市">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-216.22792" y="-1108.4513"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="378" label="行政区划">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-96.79556" y="-1051.8585"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="379" label="中国行政区划">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-68.93551" y="-988.7998"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="380" label="四洲">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="227.47827" y="274.0211"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="381" label="西洱河">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="334.896" y="268.27005"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="382" label="心花怒放">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="493.98923" y="287.15344"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="383" label="双廊">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="235.32137" y="168.29314"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="384" label="环海">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="420.68796" y="320.08755"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="385" label="喜洲">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="360.8195" y="67.016624"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="386" label="挖色">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="348.4391" y="188.49849"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="387" label="注意防晒">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="468.05997" y="-44.74783"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="388" label="适合拍照">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="422.5382" y="242.2194"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="389" label="鹰表演">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="355.7281" y="335.68036"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="390" label="erhai">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="563.39496" y="144.71852"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="391" label="云南省大理州大理市">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="554.11566" y="206.97273"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="392" label="256.5平方公里">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="284.0104" y="317.30234"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="393" label="洱海游船144元，小船200元">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="461.3193" y="154.55951"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="394" label="海舌岛,天镜阁,金梭岛，南诏风情岛">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="426.35614" y="91.43322"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="395" label="环湖2~3天，其余一天">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="529.8793" y="82.53467"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="396" label="四季">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="160.2326" y="210.93277"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="397" label="6月-8月最佳，舒适自在">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="523.69073" y="12.921109"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="398" label="西安城墙">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="15.882353"></viz:size>
+        <viz:position x="364.70428" y="-829.02686"></viz:position>
+        <viz:color r="234" g="144" b="111"></viz:color>
+      </node>
+      <node id="399" label="城墙">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="556.4788" y="-1285.3306"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="400" label="城门">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="480.5098" y="-1150.306"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="401" label="环绕">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="386.27118" y="-1274.838"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="402" label="古城墙">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="684.2249" y="-1187.2776"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="403" label="南门">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="730.18396" y="-1158.9536"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="404" label="永宁">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="508.85532" y="-1232.8676"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="405" label="交通很方便">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="548.70154" y="-1160.5743"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="406" label="玩两个小时">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="574.1012" y="-1222.2964"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="407" label="The Xi’an Circumvallation">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="520.7893" y="-1325.6322"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="408" label="陕西省西安市">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="624.48676" y="-1182.456"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="409" label="隋唐至明">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="449.87167" y="-1212.5398"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="410" label="现存规模最大、保存最完整古城垣">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="477.91235" y="-1282.5256"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="411" label="12米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="437.20786" y="-1318.1934"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="412" label="顶宽12—14米，底宽15—18米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="688.3299" y="-1242.5345"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="413" label="13.74千米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="591.23193" y="-1116.8431"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="414" label="永宁门（南门）、安远门（北门）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="631.59247" y="-1258.1934"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="415" label="08：00—22：00/19：00">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="612.32263" y="-1305.8547"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="416" label="成人54元/人，学生票半价">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="391.03696" y="-1207.1954"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="417" label="1-3小时">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="670.2395" y="-1121.4307"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="418" label="香港迪士尼乐园">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="14.029412"></viz:size>
+        <viz:position x="153.68808" y="969.6906"></viz:position>
+        <viz:color r="235" g="161" b="134"></viz:color>
+      </node>
+      <node id="419" label="香港">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="112.582016" y="1329.6602"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="420" label="庆典">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="243.25433" y="1278.8185"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="421" label="表演">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-37.456963" y="1259.807"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="422" label="城堡">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="29.289505" y="1293.9636"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="423" label="迪士尼">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="53.776997" y="1230.562"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="424" label="米奇">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-96.5183" y="1223.3387"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="425" label="项目">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="360.3079" y="1281.3577"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="426" label="迪斯尼">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="286.5911" y="1336.7634"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="427" label="排队">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="319.55414" y="1402.4508"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="428" label="烟火表演">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-27.574455" y="1195.6276"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="429" label="适合小朋友">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="415.57492" y="1337.15"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="430" label="Hong Kong Disneyland">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="10.96593" y="1353.446"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="431" label="2005年09月12日">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="427.5344" y="1273.3937"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="432" label="48.96亿港元（2013年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="134.02315" y="1262.3508"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="433" label="4800人（2013年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="361.68033" y="1357.2764"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="434" label="10:00~21:00">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="78.92623" y="1383.097"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="435" label="成人票HK $539（RMB ¥449.7416）">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-57.49857" y="1312.501"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="436" label="香港迪士尼乐园快线">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="244.53465" y="1406.4529"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="437" label="秋冬季节最佳">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="194.8363" y="1342.5475"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="438" label="公司">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="159.37169" y="1401.4979"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="439" label="中山路步行街">
+        <attvalues>
+          <attvalue for="modularity_class" value="spot"></attvalue>
+        </attvalues>
+        <viz:size value="12.176471"></viz:size>
+        <viz:position x="-458.07916" y="124.87862"></viz:position>
+        <viz:color r="237" g="178" b="156"></viz:color>
+      </node>
+      <node id="440" label="700米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-809.4407" y="269.73978"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="441" label="30-40米">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-724.43964" y="403.8141"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="442" label="芜湖市中部偏西">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-744.2016" y="312.53964"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="443" label="黄则">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-736.3759" y="242.07422"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="444" label="步行街">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-652.15344" y="407.60892"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="445" label="中山路">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-676.59796" y="336.86758"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="446" label="人民剧场">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-785.7782" y="356.39407"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+      <node id="447" label="餐厅">
+        <attvalues>
+          <attvalue for="modularity_class" value="property"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-794.44745" y="193.20349"></viz:position>
+        <viz:color r="242" g="235" b="232"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" label="destination"></edge>
+      <edge id="1" source="0" target="2" label="keyword_summary"></edge>
+      <edge id="2" source="0" target="3" label="keyword_summary"></edge>
+      <edge id="3" source="0" target="4" label="keyword_summary"></edge>
+      <edge id="4" source="0" target="5" label="keyword_comments"></edge>
+      <edge id="5" source="0" target="6" label="keyword_comments"></edge>
+      <edge id="6" source="0" target="7" label="keyword_comments"></edge>
+      <edge id="7" source="0" target="8" label="keyword_comments"></edge>
+      <edge id="8" source="0" target="9" label="keyword_comments"></edge>
+      <edge id="9" source="0" target="10" label="tag_comments"></edge>
+      <edge id="10" source="0" target="11" label="tag_comments"></edge>
+      <edge id="11" source="0" target="12" label="tag_comments"></edge>
+      <edge id="12" source="0" target="13" label="tag_comments"></edge>
+      <edge id="13" source="0" target="14" label="tag_comments"></edge>
+      <edge id="14" source="0" target="0" label="中文名称"></edge>
+      <edge id="15" source="0" target="15" label="外文名"></edge>
+      <edge id="16" source="0" target="16" label="别名"></edge>
+      <edge id="17" source="0" target="17" label="行政区类别"></edge>
+      <edge id="18" source="0" target="18" label="所属地区"></edge>
+      <edge id="19" source="0" target="19" label="下辖地区"></edge>
+      <edge id="20" source="0" target="20" label="政府驻地"></edge>
+      <edge id="21" source="0" target="21" label="电话区号"></edge>
+      <edge id="22" source="0" target="22" label="邮政区码"></edge>
+      <edge id="23" source="0" target="23" label="地理位置"></edge>
+      <edge id="24" source="0" target="24" label="面积"></edge>
+      <edge id="25" source="0" target="25" label="人口"></edge>
+      <edge id="26" source="0" target="26" label="方言"></edge>
+      <edge id="27" source="0" target="27" label="气候条件"></edge>
+      <edge id="28" source="0" target="28" label="著名景点"></edge>
+      <edge id="29" source="0" target="29" label="车牌代码"></edge>
+      <edge id="30" source="0" target="30" label="特色美食"></edge>
+      <edge id="31" source="0" target="31" label="客运码头"></edge>
+      <edge id="32" source="0" target="32" label="现代名人"></edge>
+      <edge id="33" source="0" target="33" label="周边地区"></edge>
+      <edge id="34" source="0" target="34" label="周边岛屿"></edge>
+      <edge id="35" source="0" target="35" label="岛歌"></edge>
+      <edge id="36" source="0" target="36" label="所属国家"></edge>
+      <edge id="37" source="0" target="37" label="所属城市"></edge>
+      <edge id="38" source="0" target="38" label="开放时间"></edge>
+      <edge id="39" source="0" target="39" label="建议游玩时长"></edge>
+      <edge id="40" source="0" target="40" label="适宜游玩季节"></edge>
+      <edge id="41" source="41" target="42" label="destination"></edge>
+      <edge id="42" source="41" target="43" label="keyword_comments"></edge>
+      <edge id="43" source="41" target="44" label="keyword_summary"></edge>
+      <edge id="44" source="41" target="45" label="keyword_summary"></edge>
+      <edge id="45" source="41" target="46" label="keyword_comments"></edge>
+      <edge id="47" source="41" target="47" label="keyword_comments"></edge>
+      <edge id="48" source="41" target="48" label="keyword_comments"></edge>
+      <edge id="49" source="41" target="49" label="keyword_comments"></edge>
+      <edge id="50" source="41" target="10" label="tag_comments"></edge>
+      <edge id="51" source="41" target="11" label="tag_comments"></edge>
+      <edge id="52" source="41" target="50" label="tag_comments"></edge>
+      <edge id="53" source="41" target="14" label="tag_comments"></edge>
+      <edge id="54" source="41" target="51" label="tag_comments"></edge>
+      <edge id="55" source="41" target="52" label="中文名"></edge>
+      <edge id="56" source="41" target="53" label="所属年代"></edge>
+      <edge id="57" source="41" target="54" label="地理位置"></edge>
+      <edge id="58" source="41" target="55" label="占地面积"></edge>
+      <edge id="59" source="41" target="56" label="保护级别"></edge>
+      <edge id="60" source="41" target="57" label="保护级别"></edge>
+      <edge id="61" source="41" target="58" label="批准单位"></edge>
+      <edge id="62" source="41" target="59" label="批准单位"></edge>
+      <edge id="63" source="41" target="60" label="批号"></edge>
+      <edge id="64" source="41" target="61" label="门票价格"></edge>
+      <edge id="65" source="41" target="62" label="开放时间"></edge>
+      <edge id="66" source="41" target="63" label="景点级别"></edge>
+      <edge id="67" source="41" target="64" label="主要藏品"></edge>
+      <edge id="68" source="41" target="65" label="主要藏品"></edge>
+      <edge id="69" source="41" target="66" label="主要藏品"></edge>
+      <edge id="70" source="41" target="67" label="别称"></edge>
+      <edge id="71" source="41" target="68" label="CATEGORY_ZH"></edge>
+      <edge id="72" source="41" target="69" label="CATEGORY_ZH"></edge>
+      <edge id="73" source="41" target="70" label="CATEGORY_ZH"></edge>
+      <edge id="74" source="41" target="71" label="CATEGORY_ZH"></edge>
+      <edge id="75" source="72" target="73" label="destination"></edge>
+      <edge id="76" source="72" target="74" label="keyword_summary"></edge>
+      <edge id="77" source="72" target="75" label="keyword_summary"></edge>
+      <edge id="78" source="72" target="76" label="keyword_summary"></edge>
+      <edge id="79" source="72" target="77" label="keyword_comments"></edge>
+      <edge id="80" source="72" target="78" label="keyword_comments"></edge>
+      <edge id="81" source="72" target="79" label="keyword_comments"></edge>
+      <edge id="82" source="72" target="80" label="keyword_comments"></edge>
+      <edge id="83" source="72" target="81" label="keyword_comments"></edge>
+      <edge id="84" source="72" target="10" label="tag_comments"></edge>
+      <edge id="85" source="72" target="82" label="tag_comments"></edge>
+      <edge id="86" source="72" target="83" label="tag_comments"></edge>
+      <edge id="87" source="72" target="11" label="tag_comments"></edge>
+      <edge id="88" source="72" target="84" label="tag_comments"></edge>
+      <edge id="89" source="72" target="72" label="中文名"></edge>
+      <edge id="90" source="72" target="85" label="外文名称"></edge>
+      <edge id="91" source="72" target="86" label="地理位置"></edge>
+      <edge id="92" source="72" target="87" label="气候类型"></edge>
+      <edge id="93" source="72" target="38" label="开放时间"></edge>
+      <edge id="94" source="72" target="88" label="门票价格"></edge>
+      <edge id="95" source="72" target="89" label="著名景点"></edge>
+      <edge id="96" source="72" target="90" label="著名景点"></edge>
+      <edge id="97" source="72" target="91" label="著名景点"></edge>
+      <edge id="98" source="72" target="92" label="著名景点"></edge>
+      <edge id="99" source="72" target="93" label="建筑年代"></edge>
+      <edge id="100" source="72" target="94" label="保护类别"></edge>
+      <edge id="101" source="72" target="95" label="称号"></edge>
+      <edge id="102" source="72" target="96" label="古典大楼数量"></edge>
+      <edge id="103" source="72" target="97" label="长度"></edge>
+      <edge id="104" source="72" target="98" label="CATEGORY_ZH"></edge>
+      <edge id="105" source="72" target="99" label="CATEGORY_ZH"></edge>
+      <edge id="106" source="72" target="69" label="CATEGORY_ZH"></edge>
+      <edge id="107" source="100" target="101" label="destination"></edge>
+      <edge id="108" source="100" target="102" label="keyword_summary"></edge>
+      <edge id="109" source="100" target="103" label="keyword_summary"></edge>
+      <edge id="110" source="100" target="104" label="keyword_summary"></edge>
+      <edge id="111" source="100" target="105" label="keyword_comments"></edge>
+      <edge id="112" source="100" target="106" label="keyword_comments"></edge>
+      <edge id="113" source="100" target="107" label="keyword_comments"></edge>
+      <edge id="114" source="100" target="108" label="keyword_comments"></edge>
+      <edge id="115" source="100" target="109" label="keyword_comments"></edge>
+      <edge id="116" source="100" target="13" label="tag_comments"></edge>
+      <edge id="117" source="100" target="10" label="tag_comments"></edge>
+      <edge id="118" source="100" target="11" label="tag_comments"></edge>
+      <edge id="119" source="100" target="84" label="tag_comments"></edge>
+      <edge id="120" source="100" target="82" label="tag_comments"></edge>
+      <edge id="121" source="100" target="100" label="中文名"></edge>
+      <edge id="122" source="100" target="110" label="外文名称"></edge>
+      <edge id="123" source="100" target="111" label="地理位置"></edge>
+      <edge id="124" source="100" target="112" label="气候类型"></edge>
+      <edge id="125" source="100" target="113" label="占地面积"></edge>
+      <edge id="126" source="100" target="114" label="开放时间"></edge>
+      <edge id="127" source="100" target="115" label="门票价格"></edge>
+      <edge id="128" source="100" target="116" label="著名景点"></edge>
+      <edge id="129" source="100" target="36" label="所属国家"></edge>
+      <edge id="130" source="100" target="117" label="所属城市"></edge>
+      <edge id="131" source="100" target="118" label="建议游玩时长"></edge>
+      <edge id="132" source="100" target="119" label="适宜游玩季节"></edge>
+      <edge id="133" source="100" target="99" label="CATEGORY_ZH"></edge>
+      <edge id="134" source="100" target="69" label="CATEGORY_ZH"></edge>
+      <edge id="135" source="120" target="121" label="destination"></edge>
+      <edge id="136" source="120" target="122" label="keyword_comments"></edge>
+      <edge id="137" source="120" target="123" label="keyword_summary"></edge>
+      <edge id="138" source="120" target="124" label="keyword_summary"></edge>
+      <edge id="140" source="120" target="125" label="keyword_comments"></edge>
+      <edge id="141" source="120" target="126" label="keyword_comments"></edge>
+      <edge id="142" source="120" target="109" label="keyword_comments"></edge>
+      <edge id="143" source="120" target="127" label="keyword_comments"></edge>
+      <edge id="144" source="120" target="10" label="tag_comments"></edge>
+      <edge id="145" source="120" target="11" label="tag_comments"></edge>
+      <edge id="146" source="120" target="128" label="tag_comments"></edge>
+      <edge id="147" source="120" target="13" label="tag_comments"></edge>
+      <edge id="148" source="120" target="14" label="tag_comments"></edge>
+      <edge id="149" source="120" target="120" label="中文名"></edge>
+      <edge id="150" source="120" target="129" label="外文名称"></edge>
+      <edge id="151" source="120" target="130" label="地理位置"></edge>
+      <edge id="152" source="120" target="131" label="气候类型"></edge>
+      <edge id="153" source="120" target="132" label="占地面积"></edge>
+      <edge id="154" source="120" target="133" label="开放时间"></edge>
+      <edge id="155" source="120" target="134" label="景点级别"></edge>
+      <edge id="156" source="120" target="135" label="门票价格"></edge>
+      <edge id="157" source="120" target="136" label="著名景点"></edge>
+      <edge id="158" source="120" target="137" label="著名景点"></edge>
+      <edge id="159" source="120" target="138" label="著名景点"></edge>
+      <edge id="160" source="120" target="139" label="著名景点"></edge>
+      <edge id="161" source="120" target="140" label="所属城市"></edge>
+      <edge id="162" source="120" target="36" label="所属国家"></edge>
+      <edge id="163" source="120" target="141" label="适宜游玩季节"></edge>
+      <edge id="164" source="120" target="38" label="开放时间"></edge>
+      <edge id="165" source="120" target="142" label="建议游玩时长"></edge>
+      <edge id="166" source="120" target="143" label="所属省份"></edge>
+      <edge id="167" source="120" target="144" label="CATEGORY_ZH"></edge>
+      <edge id="168" source="145" target="146" label="destination"></edge>
+      <edge id="169" source="145" target="147" label="keyword_summary"></edge>
+      <edge id="170" source="145" target="148" label="keyword_summary"></edge>
+      <edge id="171" source="145" target="149" label="keyword_summary"></edge>
+      <edge id="172" source="145" target="150" label="keyword_comments"></edge>
+      <edge id="173" source="145" target="151" label="湖中三堤"></edge>
+      <edge id="174" source="145" target="152" label="湖中三堤"></edge>
+      <edge id="175" source="145" target="153" label="湖中二塔"></edge>
+      <edge id="176" source="145" target="154" label="keyword_comments"></edge>
+      <edge id="177" source="145" target="10" label="tag_comments"></edge>
+      <edge id="178" source="145" target="11" label="tag_comments"></edge>
+      <edge id="179" source="145" target="155" label="tag_comments"></edge>
+      <edge id="180" source="145" target="156" label="tag_comments"></edge>
+      <edge id="181" source="145" target="84" label="tag_comments"></edge>
+      <edge id="182" source="145" target="157" label="中文名"></edge>
+      <edge id="183" source="145" target="158" label="外文名称"></edge>
+      <edge id="184" source="145" target="159" label="地理位置"></edge>
+      <edge id="185" source="145" target="87" label="气候类型"></edge>
+      <edge id="186" source="145" target="160" label="占地面积"></edge>
+      <edge id="187" source="145" target="114" label="开放时间"></edge>
+      <edge id="188" source="145" target="161" label="景点级别"></edge>
+      <edge id="189" source="145" target="115" label="门票价格"></edge>
+      <edge id="190" source="145" target="162" label="著名景点"></edge>
+      <edge id="191" source="145" target="163" label="遗产名录"></edge>
+      <edge id="192" source="145" target="164" label="湖泊长度"></edge>
+      <edge id="193" source="145" target="165" label="湖泊宽度"></edge>
+      <edge id="194" source="145" target="166" label="湖泊面积"></edge>
+      <edge id="195" source="145" target="167" label="平均深度"></edge>
+      <edge id="196" source="145" target="168" label="库容量"></edge>
+      <edge id="197" source="145" target="169" label="湖岸线长度"></edge>
+      <edge id="198" source="145" target="170" label="经纬度"></edge>
+      <edge id="199" source="145" target="171" label="名诗"></edge>
+      <edge id="200" source="145" target="172" label="湖中一山"></edge>
+      <edge id="201" source="145" target="173" label="湖中二塔"></edge>
+      <edge id="203" source="145" target="174" label="湖中三岛"></edge>
+      <edge id="204" source="145" target="175" label="湖中三岛"></edge>
+      <edge id="205" source="145" target="176" label="湖中三岛"></edge>
+      <edge id="208" source="145" target="177" label="湖中三堤"></edge>
+      <edge id="209" source="145" target="178" label="环湖名街"></edge>
+      <edge id="210" source="145" target="179" label="环湖名街"></edge>
+      <edge id="211" source="145" target="180" label="环湖名街"></edge>
+      <edge id="212" source="145" target="181" label="建议游玩时长"></edge>
+      <edge id="213" source="145" target="182" label="适宜游玩季节"></edge>
+      <edge id="214" source="145" target="98" label="CATEGORY_ZH"></edge>
+      <edge id="215" source="145" target="183" label="CATEGORY_ZH"></edge>
+      <edge id="216" source="145" target="184" label="CATEGORY_ZH"></edge>
+      <edge id="217" source="145" target="185" label="CATEGORY_ZH"></edge>
+      <edge id="218" source="186" target="1" label="destination"></edge>
+      <edge id="219" source="186" target="187" label="keyword_comments"></edge>
+      <edge id="220" source="186" target="188" label="keyword_summary"></edge>
+      <edge id="221" source="186" target="189" label="keyword_summary"></edge>
+      <edge id="222" source="186" target="190" label="keyword_comments"></edge>
+      <edge id="223" source="186" target="191" label="keyword_comments"></edge>
+      <edge id="225" source="186" target="192" label="keyword_comments"></edge>
+      <edge id="226" source="186" target="193" label="keyword_comments"></edge>
+      <edge id="227" source="186" target="10" label="tag_comments"></edge>
+      <edge id="228" source="186" target="11" label="tag_comments"></edge>
+      <edge id="229" source="186" target="51" label="tag_comments"></edge>
+      <edge id="230" source="186" target="194" label="tag_comments"></edge>
+      <edge id="231" source="186" target="195" label="tag_comments"></edge>
+      <edge id="232" source="186" target="186" label="中文名"></edge>
+      <edge id="233" source="186" target="196" label="外文名称"></edge>
+      <edge id="234" source="186" target="197" label="简称"></edge>
+      <edge id="235" source="186" target="198" label="创办人"></edge>
+      <edge id="236" source="186" target="199" label="创办时间"></edge>
+      <edge id="237" source="186" target="200" label="类别"></edge>
+      <edge id="238" source="186" target="201" label="类型"></edge>
+      <edge id="239" source="186" target="202" label="属性"></edge>
+      <edge id="240" source="186" target="203" label="属性"></edge>
+      <edge id="241" source="186" target="204" label="属性"></edge>
+      <edge id="242" source="186" target="205" label="属性"></edge>
+      <edge id="243" source="186" target="206" label="属性"></edge>
+      <edge id="244" source="186" target="207" label="主管部门"></edge>
+      <edge id="245" source="186" target="208" label="现任领导"></edge>
+      <edge id="246" source="186" target="209" label="现任领导"></edge>
+      <edge id="247" source="186" target="210" label="专职院士"></edge>
+      <edge id="248" source="186" target="211" label="硕士点"></edge>
+      <edge id="249" source="186" target="212" label="博士点"></edge>
+      <edge id="250" source="186" target="213" label="硕士点"></edge>
+      <edge id="251" source="186" target="214" label="博士点"></edge>
+      <edge id="253" source="186" target="215" label="博士点"></edge>
+      <edge id="254" source="186" target="216" label="博士后"></edge>
+      <edge id="255" source="186" target="217" label="国家重点学科"></edge>
+      <edge id="256" source="186" target="218" label="国家重点学科"></edge>
+      <edge id="257" source="186" target="219" label="院系设置"></edge>
+      <edge id="258" source="186" target="220" label="校训"></edge>
+      <edge id="259" source="186" target="221" label="校歌"></edge>
+      <edge id="260" source="186" target="222" label="校庆日"></edge>
+      <edge id="261" source="186" target="223" label="地址"></edge>
+      <edge id="262" source="186" target="224" label="地址"></edge>
+      <edge id="263" source="186" target="225" label="地址"></edge>
+      <edge id="264" source="186" target="226" label="地址"></edge>
+      <edge id="265" source="186" target="227" label="院校代码"></edge>
+      <edge id="266" source="186" target="228" label="主要奖项"></edge>
+      <edge id="267" source="186" target="229" label="主要奖项"></edge>
+      <edge id="268" source="186" target="230" label="主要奖项"></edge>
+      <edge id="269" source="186" target="231" label="主要奖项"></edge>
+      <edge id="270" source="186" target="232" label="主要奖项"></edge>
+      <edge id="271" source="186" target="233" label="知名校友"></edge>
+      <edge id="272" source="186" target="234" label="知名校友"></edge>
+      <edge id="273" source="186" target="235" label="知名校友"></edge>
+      <edge id="274" source="186" target="236" label="知名校友"></edge>
+      <edge id="275" source="186" target="237" label="知名校友"></edge>
+      <edge id="276" source="186" target="238" label="知名校友"></edge>
+      <edge id="277" source="186" target="239" label="CATEGORY_ZH"></edge>
+      <edge id="278" source="186" target="240" label="CATEGORY_ZH"></edge>
+      <edge id="279" source="186" target="241" label="CATEGORY_ZH"></edge>
+      <edge id="280" source="186" target="242" label="CATEGORY_ZH"></edge>
+      <edge id="281" source="186" target="243" label="CATEGORY_ZH"></edge>
+      <edge id="282" source="186" target="244" label="CATEGORY_ZH"></edge>
+      <edge id="283" source="186" target="245" label="CATEGORY_ZH"></edge>
+      <edge id="284" source="186" target="246" label="CATEGORY_ZH"></edge>
+      <edge id="285" source="186" target="247" label="CATEGORY_ZH"></edge>
+      <edge id="286" source="186" target="248" label="CATEGORY_ZH"></edge>
+      <edge id="287" source="186" target="249" label="CATEGORY_ZH"></edge>
+      <edge id="288" source="250" target="42" label="destination"></edge>
+      <edge id="289" source="250" target="251" label="keyword_summary"></edge>
+      <edge id="290" source="250" target="252" label="keyword_summary"></edge>
+      <edge id="291" source="250" target="253" label="keyword_summary"></edge>
+      <edge id="292" source="250" target="254" label="keyword_comments"></edge>
+      <edge id="293" source="250" target="255" label="keyword_comments"></edge>
+      <edge id="294" source="250" target="256" label="keyword_comments"></edge>
+      <edge id="295" source="250" target="257" label="keyword_comments"></edge>
+      <edge id="296" source="250" target="258" label="著名景点"></edge>
+      <edge id="297" source="250" target="10" label="tag_comments"></edge>
+      <edge id="298" source="250" target="259" label="tag_comments"></edge>
+      <edge id="299" source="250" target="11" label="tag_comments"></edge>
+      <edge id="300" source="250" target="260" label="tag_comments"></edge>
+      <edge id="301" source="250" target="84" label="tag_comments"></edge>
+      <edge id="302" source="250" target="250" label="中文名"></edge>
+      <edge id="303" source="250" target="261" label="外文名称"></edge>
+      <edge id="304" source="250" target="262" label="地理位置"></edge>
+      <edge id="305" source="250" target="263" label="气候类型"></edge>
+      <edge id="306" source="250" target="264" label="占地面积"></edge>
+      <edge id="307" source="250" target="265" label="开放时间"></edge>
+      <edge id="308" source="250" target="266" label="门票价格"></edge>
+      <edge id="310" source="250" target="267" label="著名景点"></edge>
+      <edge id="311" source="250" target="268" label="著名景点"></edge>
+      <edge id="312" source="250" target="269" label="参观时间"></edge>
+      <edge id="313" source="250" target="270" label="CATEGORY_ZH"></edge>
+      <edge id="314" source="250" target="68" label="CATEGORY_ZH"></edge>
+      <edge id="315" source="250" target="271" label="CATEGORY_ZH"></edge>
+      <edge id="316" source="272" target="273" label="destination"></edge>
+      <edge id="317" source="272" target="274" label="馆藏精品"></edge>
+      <edge id="318" source="272" target="275" label="keyword_summary"></edge>
+      <edge id="319" source="272" target="276" label="keyword_summary"></edge>
+      <edge id="321" source="272" target="277" label="keyword_comments"></edge>
+      <edge id="322" source="272" target="278" label="keyword_comments"></edge>
+      <edge id="323" source="272" target="48" label="keyword_comments"></edge>
+      <edge id="324" source="272" target="279" label="keyword_comments"></edge>
+      <edge id="325" source="272" target="10" label="tag_comments"></edge>
+      <edge id="326" source="272" target="11" label="tag_comments"></edge>
+      <edge id="327" source="272" target="50" label="tag_comments"></edge>
+      <edge id="328" source="272" target="84" label="tag_comments"></edge>
+      <edge id="329" source="272" target="51" label="tag_comments"></edge>
+      <edge id="330" source="272" target="272" label="中文名"></edge>
+      <edge id="331" source="272" target="280" label="外文名称"></edge>
+      <edge id="332" source="272" target="281" label="类别"></edge>
+      <edge id="333" source="272" target="282" label="地点"></edge>
+      <edge id="334" source="272" target="283" label="开放时间"></edge>
+      <edge id="336" source="272" target="284" label="开馆时间"></edge>
+      <edge id="337" source="272" target="285" label="占地面积"></edge>
+      <edge id="338" source="272" target="286" label="门票价格"></edge>
+      <edge id="339" source="272" target="287" label="博物馆级别"></edge>
+      <edge id="340" source="272" target="98" label="CATEGORY_ZH"></edge>
+      <edge id="341" source="272" target="270" label="CATEGORY_ZH"></edge>
+      <edge id="342" source="272" target="271" label="CATEGORY_ZH"></edge>
+      <edge id="343" source="272" target="70" label="CATEGORY_ZH"></edge>
+      <edge id="344" source="288" target="277" label="destination"></edge>
+      <edge id="345" source="288" target="17" label="keyword_summary"></edge>
+      <edge id="346" source="288" target="289" label="keyword_summary"></edge>
+      <edge id="347" source="288" target="290" label="keyword_summary"></edge>
+      <edge id="348" source="288" target="291" label="keyword_comments"></edge>
+      <edge id="349" source="288" target="292" label="keyword_comments"></edge>
+      <edge id="350" source="288" target="293" label="keyword_comments"></edge>
+      <edge id="351" source="288" target="106" label="keyword_comments"></edge>
+      <edge id="352" source="288" target="294" label="keyword_comments"></edge>
+      <edge id="353" source="288" target="10" label="tag_comments"></edge>
+      <edge id="354" source="288" target="13" label="tag_comments"></edge>
+      <edge id="355" source="288" target="11" label="tag_comments"></edge>
+      <edge id="356" source="288" target="128" label="tag_comments"></edge>
+      <edge id="357" source="288" target="84" label="tag_comments"></edge>
+      <edge id="358" source="288" target="295" label="别称"></edge>
+      <edge id="359" source="288" target="38" label="开放时间"></edge>
+      <edge id="360" source="288" target="296" label="所属区域"></edge>
+      <edge id="361" source="288" target="297" label="注音"></edge>
+      <edge id="362" source="288" target="298" label="所属城市"></edge>
+      <edge id="363" source="288" target="299" label="历史"></edge>
+      <edge id="364" source="288" target="300" label="景点"></edge>
+      <edge id="365" source="288" target="301" label="类型"></edge>
+      <edge id="366" source="288" target="115" label="门票价格"></edge>
+      <edge id="367" source="288" target="302" label="美食"></edge>
+      <edge id="368" source="288" target="303" label="外文名称"></edge>
+      <edge id="369" source="288" target="304" label="建议游玩时长"></edge>
+      <edge id="370" source="288" target="305" label="适宜游玩季节"></edge>
+      <edge id="371" source="288" target="288" label="中文名"></edge>
+      <edge id="372" source="288" target="306" label="宗教"></edge>
+      <edge id="373" source="288" target="69" label="CATEGORY_ZH"></edge>
+      <edge id="374" source="288" target="99" label="CATEGORY_ZH"></edge>
+      <edge id="375" source="307" target="308" label="destination"></edge>
+      <edge id="376" source="307" target="309" label="keyword_comments"></edge>
+      <edge id="377" source="307" target="310" label="keyword_summary"></edge>
+      <edge id="378" source="307" target="311" label="keyword_summary"></edge>
+      <edge id="380" source="307" target="312" label="keyword_comments"></edge>
+      <edge id="381" source="307" target="313" label="keyword_comments"></edge>
+      <edge id="382" source="307" target="314" label="keyword_comments"></edge>
+      <edge id="383" source="307" target="315" label="keyword_comments"></edge>
+      <edge id="384" source="307" target="10" label="tag_comments"></edge>
+      <edge id="385" source="307" target="11" label="tag_comments"></edge>
+      <edge id="386" source="307" target="259" label="tag_comments"></edge>
+      <edge id="387" source="307" target="84" label="tag_comments"></edge>
+      <edge id="388" source="307" target="316" label="tag_comments"></edge>
+      <edge id="389" source="307" target="307" label="中文名"></edge>
+      <edge id="390" source="307" target="317" label="外文名称"></edge>
+      <edge id="391" source="307" target="318" label="地理位置"></edge>
+      <edge id="392" source="307" target="263" label="气候类型"></edge>
+      <edge id="393" source="307" target="319" label="开放时间"></edge>
+      <edge id="394" source="307" target="134" label="景点级别"></edge>
+      <edge id="395" source="307" target="320" label="门票价格"></edge>
+      <edge id="396" source="307" target="321" label="著名景点"></edge>
+      <edge id="397" source="307" target="322" label="景区类型"></edge>
+      <edge id="398" source="307" target="323" label="火车站"></edge>
+      <edge id="399" source="307" target="324" label="所属城市"></edge>
+      <edge id="400" source="307" target="36" label="所属国家"></edge>
+      <edge id="401" source="307" target="325" label="建议游玩时长"></edge>
+      <edge id="402" source="307" target="326" label="适宜游玩季节"></edge>
+      <edge id="403" source="307" target="327" label="适宜游玩季节"></edge>
+      <edge id="404" source="307" target="328" label="适宜游玩季节"></edge>
+      <edge id="405" source="307" target="329" label="适宜游玩季节"></edge>
+      <edge id="406" source="330" target="42" label="destination"></edge>
+      <edge id="407" source="330" target="331" label="keyword_comments"></edge>
+      <edge id="408" source="330" target="332" label="keyword_summary"></edge>
+      <edge id="409" source="330" target="333" label="keyword_summary"></edge>
+      <edge id="411" source="330" target="334" label="keyword_comments"></edge>
+      <edge id="412" source="330" target="335" label="keyword_comments"></edge>
+      <edge id="413" source="330" target="336" label="keyword_comments"></edge>
+      <edge id="414" source="330" target="108" label="keyword_comments"></edge>
+      <edge id="415" source="330" target="10" label="tag_comments"></edge>
+      <edge id="416" source="330" target="13" label="tag_comments"></edge>
+      <edge id="417" source="330" target="11" label="tag_comments"></edge>
+      <edge id="418" source="330" target="84" label="tag_comments"></edge>
+      <edge id="419" source="330" target="12" label="tag_comments"></edge>
+      <edge id="420" source="330" target="36" label="所属国家"></edge>
+      <edge id="421" source="330" target="337" label="适宜游玩季节"></edge>
+      <edge id="422" source="330" target="330" label="中文名称"></edge>
+      <edge id="423" source="330" target="38" label="开放时间"></edge>
+      <edge id="424" source="330" target="338" label="著名景点"></edge>
+      <edge id="425" source="330" target="115" label="门票价格"></edge>
+      <edge id="426" source="330" target="118" label="建议游玩时长"></edge>
+      <edge id="427" source="330" target="339" label="最佳旅游季节"></edge>
+      <edge id="428" source="330" target="340" label="地理位置"></edge>
+      <edge id="429" source="330" target="54" label="所属城市"></edge>
+      <edge id="431" source="330" target="99" label="CATEGORY_ZH"></edge>
+      <edge id="432" source="330" target="341" label="CATEGORY_ZH"></edge>
+      <edge id="433" source="330" target="69" label="CATEGORY_ZH"></edge>
+      <edge id="434" source="342" target="42" label="destination"></edge>
+      <edge id="435" source="342" target="343" label="著名景点"></edge>
+      <edge id="436" source="342" target="344" label="著名景点"></edge>
+      <edge id="437" source="342" target="345" label="keyword_summary"></edge>
+      <edge id="439" source="342" target="346" label="keyword_comments"></edge>
+      <edge id="440" source="342" target="347" label="keyword_comments"></edge>
+      <edge id="441" source="342" target="348" label="keyword_comments"></edge>
+      <edge id="442" source="342" target="349" label="keyword_comments"></edge>
+      <edge id="443" source="342" target="10" label="tag_comments"></edge>
+      <edge id="444" source="342" target="11" label="tag_comments"></edge>
+      <edge id="445" source="342" target="14" label="tag_comments"></edge>
+      <edge id="446" source="342" target="155" label="tag_comments"></edge>
+      <edge id="447" source="342" target="84" label="tag_comments"></edge>
+      <edge id="448" source="342" target="342" label="中文名"></edge>
+      <edge id="449" source="342" target="350" label="外文名称"></edge>
+      <edge id="450" source="342" target="263" label="气候类型"></edge>
+      <edge id="451" source="342" target="351" label="占地面积"></edge>
+      <edge id="452" source="342" target="352" label="开放时间"></edge>
+      <edge id="453" source="342" target="134" label="景点级别"></edge>
+      <edge id="454" source="342" target="353" label="门票价格"></edge>
+      <edge id="457" source="342" target="354" label="著名景点"></edge>
+      <edge id="458" source="342" target="355" label="建造时间"></edge>
+      <edge id="459" source="342" target="356" label="景区类型"></edge>
+      <edge id="460" source="342" target="36" label="所属国家"></edge>
+      <edge id="461" source="342" target="357" label="所属地区"></edge>
+      <edge id="462" source="342" target="358" label="建议游玩时长"></edge>
+      <edge id="463" source="342" target="359" label="适宜游玩季节"></edge>
+      <edge id="464" source="342" target="68" label="CATEGORY_ZH"></edge>
+      <edge id="465" source="342" target="185" label="CATEGORY_ZH"></edge>
+      <edge id="466" source="360" target="361" label="destination"></edge>
+      <edge id="467" source="360" target="362" label="keyword_summary"></edge>
+      <edge id="468" source="360" target="363" label="keyword_summary"></edge>
+      <edge id="469" source="360" target="364" label="keyword_summary"></edge>
+      <edge id="470" source="360" target="122" label="keyword_comments"></edge>
+      <edge id="471" source="360" target="365" label="著名景点"></edge>
+      <edge id="472" source="360" target="366" label="著名景点"></edge>
+      <edge id="473" source="360" target="367" label="keyword_comments"></edge>
+      <edge id="474" source="360" target="121" label="keyword_comments"></edge>
+      <edge id="475" source="360" target="10" label="tag_comments"></edge>
+      <edge id="476" source="360" target="11" label="tag_comments"></edge>
+      <edge id="477" source="360" target="13" label="tag_comments"></edge>
+      <edge id="478" source="360" target="128" label="tag_comments"></edge>
+      <edge id="479" source="360" target="14" label="tag_comments"></edge>
+      <edge id="480" source="360" target="360" label="中文名"></edge>
+      <edge id="481" source="360" target="368" label="外文名称"></edge>
+      <edge id="482" source="360" target="369" label="地理位置"></edge>
+      <edge id="483" source="360" target="370" label="气候类型"></edge>
+      <edge id="484" source="360" target="371" label="占地面积"></edge>
+      <edge id="485" source="360" target="114" label="开放时间"></edge>
+      <edge id="486" source="360" target="372" label="景点级别"></edge>
+      <edge id="487" source="360" target="373" label="门票价格"></edge>
+      <edge id="490" source="360" target="374" label="著名景点"></edge>
+      <edge id="491" source="360" target="375" label="适宜游玩季节"></edge>
+      <edge id="492" source="360" target="376" label="建议游玩时长"></edge>
+      <edge id="493" source="360" target="36" label="所属国家"></edge>
+      <edge id="494" source="360" target="377" label="所属城市"></edge>
+      <edge id="495" source="360" target="378" label="CATEGORY_ZH"></edge>
+      <edge id="496" source="360" target="98" label="CATEGORY_ZH"></edge>
+      <edge id="497" source="360" target="379" label="CATEGORY_ZH"></edge>
+      <edge id="498" source="365" target="361" label="destination"></edge>
+      <edge id="499" source="365" target="380" label="keyword_summary"></edge>
+      <edge id="500" source="365" target="381" label="keyword_summary"></edge>
+      <edge id="501" source="365" target="382" label="keyword_summary"></edge>
+      <edge id="502" source="365" target="383" label="keyword_comments"></edge>
+      <edge id="503" source="365" target="366" label="keyword_comments"></edge>
+      <edge id="504" source="365" target="384" label="keyword_comments"></edge>
+      <edge id="505" source="365" target="385" label="keyword_comments"></edge>
+      <edge id="506" source="365" target="386" label="keyword_comments"></edge>
+      <edge id="507" source="365" target="11" label="tag_comments"></edge>
+      <edge id="508" source="365" target="155" label="tag_comments"></edge>
+      <edge id="509" source="365" target="387" label="tag_comments"></edge>
+      <edge id="510" source="365" target="388" label="tag_comments"></edge>
+      <edge id="511" source="365" target="389" label="tag_comments"></edge>
+      <edge id="512" source="365" target="365" label="中文名"></edge>
+      <edge id="513" source="365" target="390" label="外文名称"></edge>
+      <edge id="514" source="365" target="391" label="地理位置"></edge>
+      <edge id="515" source="365" target="87" label="气候类型"></edge>
+      <edge id="516" source="365" target="392" label="占地面积"></edge>
+      <edge id="517" source="365" target="38" label="开放时间"></edge>
+      <edge id="518" source="365" target="393" label="门票价格"></edge>
+      <edge id="519" source="365" target="394" label="著名景点"></edge>
+      <edge id="520" source="365" target="395" label="建议游玩时长"></edge>
+      <edge id="521" source="365" target="396" label="建议游玩季节"></edge>
+      <edge id="522" source="365" target="397" label="适宜游玩季节"></edge>
+      <edge id="523" source="365" target="98" label="CATEGORY_ZH"></edge>
+      <edge id="524" source="365" target="69" label="CATEGORY_ZH"></edge>
+      <edge id="525" source="365" target="184" label="CATEGORY_ZH"></edge>
+      <edge id="526" source="398" target="277" label="destination"></edge>
+      <edge id="527" source="398" target="399" label="keyword_comments"></edge>
+      <edge id="528" source="398" target="400" label="keyword_summary"></edge>
+      <edge id="529" source="398" target="401" label="keyword_summary"></edge>
+      <edge id="531" source="398" target="402" label="keyword_comments"></edge>
+      <edge id="532" source="398" target="154" label="keyword_comments"></edge>
+      <edge id="533" source="398" target="403" label="keyword_comments"></edge>
+      <edge id="534" source="398" target="404" label="keyword_comments"></edge>
+      <edge id="535" source="398" target="11" label="tag_comments"></edge>
+      <edge id="536" source="398" target="82" label="tag_comments"></edge>
+      <edge id="537" source="398" target="10" label="tag_comments"></edge>
+      <edge id="538" source="398" target="405" label="tag_comments"></edge>
+      <edge id="539" source="398" target="406" label="tag_comments"></edge>
+      <edge id="540" source="398" target="398" label="中文名"></edge>
+      <edge id="541" source="398" target="407" label="外文名称"></edge>
+      <edge id="542" source="398" target="408" label="所属城市"></edge>
+      <edge id="543" source="398" target="409" label="建筑年代"></edge>
+      <edge id="544" source="398" target="57" label="文保级别"></edge>
+      <edge id="545" source="398" target="410" label="价值"></edge>
+      <edge id="546" source="398" target="411" label="高度"></edge>
+      <edge id="547" source="398" target="412" label="宽度"></edge>
+      <edge id="548" source="398" target="413" label="周长"></edge>
+      <edge id="549" source="398" target="372" label="景区级别"></edge>
+      <edge id="550" source="398" target="414" label="著名景点"></edge>
+      <edge id="551" source="398" target="415" label="开放时间"></edge>
+      <edge id="552" source="398" target="416" label="门票价格"></edge>
+      <edge id="553" source="398" target="417" label="建议游玩时长"></edge>
+      <edge id="554" source="398" target="339" label="适宜游玩季节"></edge>
+      <edge id="555" source="398" target="36" label="所属国家"></edge>
+      <edge id="557" source="398" target="98" label="CATEGORY_ZH"></edge>
+      <edge id="558" source="398" target="68" label="CATEGORY_ZH"></edge>
+      <edge id="559" source="398" target="69" label="CATEGORY_ZH"></edge>
+      <edge id="560" source="418" target="419" label="总部地点"></edge>
+      <edge id="561" source="418" target="420" label="keyword_summary"></edge>
+      <edge id="562" source="418" target="421" label="keyword_summary"></edge>
+      <edge id="563" source="418" target="422" label="keyword_summary"></edge>
+      <edge id="564" source="418" target="423" label="keyword_comments"></edge>
+      <edge id="565" source="418" target="424" label="keyword_comments"></edge>
+      <edge id="566" source="418" target="425" label="keyword_comments"></edge>
+      <edge id="567" source="418" target="426" label="keyword_comments"></edge>
+      <edge id="568" source="418" target="427" label="keyword_comments"></edge>
+      <edge id="569" source="418" target="428" label="tag_comments"></edge>
+      <edge id="570" source="418" target="429" label="tag_comments"></edge>
+      <edge id="571" source="418" target="10" label="tag_comments"></edge>
+      <edge id="572" source="418" target="156" label="tag_comments"></edge>
+      <edge id="573" source="418" target="11" label="tag_comments"></edge>
+      <edge id="574" source="418" target="418" label="公司名称"></edge>
+      <edge id="575" source="418" target="430" label="外文名称"></edge>
+      <edge id="577" source="418" target="431" label="成立时间"></edge>
+      <edge id="578" source="418" target="432" label="年营业额"></edge>
+      <edge id="579" source="418" target="433" label="员工数"></edge>
+      <edge id="580" source="418" target="434" label="开放时间"></edge>
+      <edge id="581" source="418" target="435" label="门票价格"></edge>
+      <edge id="582" source="418" target="436" label="著名景点"></edge>
+      <edge id="583" source="418" target="39" label="建议游玩时长"></edge>
+      <edge id="584" source="418" target="437" label="适宜游玩季节"></edge>
+      <edge id="585" source="418" target="185" label="CATEGORY_ZH"></edge>
+      <edge id="586" source="418" target="438" label="CATEGORY_ZH"></edge>
+      <edge id="587" source="439" target="440" label="全长"></edge>
+      <edge id="588" source="439" target="441" label="宽"></edge>
+      <edge id="589" source="439" target="99" label="CATEGORY_ZH"></edge>
+      <edge id="590" source="439" target="69" label="CATEGORY_ZH"></edge>
+      <edge id="591" source="439" target="442" label="位于"></edge>
+      <edge id="592" source="439" target="439" label="中文名"></edge>
+      <edge id="593" source="439" target="82" label="tag_comments"></edge>
+      <edge id="594" source="439" target="84" label="tag_comments"></edge>
+      <edge id="595" source="439" target="10" label="tag_comments"></edge>
+      <edge id="596" source="439" target="13" label="tag_comments"></edge>
+      <edge id="597" source="439" target="443" label="keyword_comments"></edge>
+      <edge id="598" source="439" target="0" label="keyword_comments"></edge>
+      <edge id="599" source="439" target="106" label="keyword_comments"></edge>
+      <edge id="600" source="439" target="444" label="keyword_comments"></edge>
+      <edge id="601" source="439" target="445" label="keyword_comments"></edge>
+      <edge id="602" source="439" target="78" label="keyword_summary"></edge>
+      <edge id="603" source="439" target="11" label="tag_comments"></edge>
+      <edge id="604" source="439" target="1" label="destination"></edge>
+      <edge id="605" source="439" target="446" label="keyword_summary"></edge>
+      <edge id="606" source="439" target="447" label="keyword_summary"></edge>
+    </edges>
+  </graph>
+</gexf>
