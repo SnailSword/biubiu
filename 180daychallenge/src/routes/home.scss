@@ -1,0 +1,33 @@
+.main-grid-container {
+    margin-bottom: 150px;
+}
+
+.footer-tool {
+    height: 150px;
+    width: 100%;
+    background-color: #fff9;
+    position: fixed;
+    bottom: 0;
+    padding: 20px;
+    p {
+        margin-bottom: 0.5rem;
+        &.p-button {
+            float: right;
+        }
+    }
+}
+
+button {
+    // background-color: white;
+    color: #02021b;
+    border: 2px solid #02021b;
+}
+
+.full {
+    margin-top: 2rem;
+}
+
+.to-detail {
+    text-align: center;
+    margin: 20px 0;
+}
