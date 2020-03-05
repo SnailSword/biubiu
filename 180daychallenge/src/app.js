@@ -5,6 +5,8 @@ import { createBrowserHistory } from 'history'
 import Navigation from './components/Navigation'
 import Home from './routes/Home'
 import Full from './routes/Full'
+
+import './styles/index.scss'
 // import Sample from './routes/Sample'
 
 export const App = () => (
